@@ -1,0 +1,45 @@
+{
+  "id": "CG0804",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kimongo",
+    "en": "Kimongo",
+    "slug": "kimongo-cg0804"
+  },
+  "code": {
+    "id": "CG0804",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG08",
+    "level": 1,
+    "name": {
+      "local": "Niari",
+      "en": "Niari",
+      "slug": "niari-cg08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG08",
+      "level": 1,
+      "name": {
+        "local": "Niari",
+        "en": "Niari",
+        "slug": "niari-cg08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.53",
+    "lon": "13.163"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "CG0307",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Owando",
+    "en": "Owando",
+    "slug": "owando-cg0307"
+  },
+  "code": {
+    "id": "CG0307",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG03",
+    "level": 1,
+    "name": {
+      "local": "Cuvette",
+      "en": "Cuvette",
+      "slug": "cuvette-cg03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG03",
+      "level": 1,
+      "name": {
+        "local": "Cuvette",
+        "en": "Cuvette",
+        "slug": "cuvette-cg03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.518",
+    "lon": "15.886"
+  },
+  "metadata": {},
+  "source": {}
+}

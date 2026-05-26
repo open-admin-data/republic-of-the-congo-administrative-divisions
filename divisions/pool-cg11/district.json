@@ -1,0 +1,587 @@
+[
+  {
+    "id": "CG1101",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Boko",
+      "en": "Boko",
+      "slug": "boko-cg1101"
+    },
+    "code": {
+      "id": "CG1101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG11",
+      "level": 1,
+      "name": {
+        "local": "Pool",
+        "en": "Pool",
+        "slug": "pool-cg11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG11",
+        "level": 1,
+        "name": {
+          "local": "Pool",
+          "en": "Pool",
+          "slug": "pool-cg11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.712",
+      "lon": "14.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1102",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Goma-Tsetse",
+      "en": "Goma-Tsetse",
+      "slug": "goma-tsetse-cg1102"
+    },
+    "code": {
+      "id": "CG1102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG11",
+      "level": 1,
+      "name": {
+        "local": "Pool",
+        "en": "Pool",
+        "slug": "pool-cg11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG11",
+        "level": 1,
+        "name": {
+          "local": "Pool",
+          "en": "Pool",
+          "slug": "pool-cg11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.139",
+      "lon": "15.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1103",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ignie",
+      "en": "Ignie",
+      "slug": "ignie-cg1103"
+    },
+    "code": {
+      "id": "CG1103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG11",
+      "level": 1,
+      "name": {
+        "local": "Pool",
+        "en": "Pool",
+        "slug": "pool-cg11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG11",
+        "level": 1,
+        "name": {
+          "local": "Pool",
+          "en": "Pool",
+          "slug": "pool-cg11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.896",
+      "lon": "15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1104",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kimba",
+      "en": "Kimba",
+      "slug": "kimba-cg1104"
+    },
+    "code": {
+      "id": "CG1104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG11",
+      "level": 1,
+      "name": {
+        "local": "Pool",
+        "en": "Pool",
+        "slug": "pool-cg11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG11",
+        "level": 1,
+        "name": {
+          "local": "Pool",
+          "en": "Pool",
+          "slug": "pool-cg11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.296",
+      "lon": "14.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1105",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kindamba",
+      "en": "Kindamba",
+      "slug": "kindamba-cg1105"
+    },
+    "code": {
+      "id": "CG1105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG11",
+      "level": 1,
+      "name": {
+        "local": "Pool",
+        "en": "Pool",
+        "slug": "pool-cg11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG11",
+        "level": 1,
+        "name": {
+          "local": "Pool",
+          "en": "Pool",
+          "slug": "pool-cg11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.776",
+      "lon": "14.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1106",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kinkala",
+      "en": "Kinkala",
+      "slug": "kinkala-cg1106"
+    },
+    "code": {
+      "id": "CG1106",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG11",
+      "level": 1,
+      "name": {
+        "local": "Pool",
+        "en": "Pool",
+        "slug": "pool-cg11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG11",
+        "level": 1,
+        "name": {
+          "local": "Pool",
+          "en": "Pool",
+          "slug": "pool-cg11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.252",
+      "lon": "14.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1107",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Louingui",
+      "en": "Louingui",
+      "slug": "louingui-cg1107"
+    },
+    "code": {
+      "id": "CG1107",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG11",
+      "level": 1,
+      "name": {
+        "local": "Pool",
+        "en": "Pool",
+        "slug": "pool-cg11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG11",
+        "level": 1,
+        "name": {
+          "local": "Pool",
+          "en": "Pool",
+          "slug": "pool-cg11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.505",
+      "lon": "14.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1108",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Loumo",
+      "en": "Loumo",
+      "slug": "loumo-cg1108"
+    },
+    "code": {
+      "id": "CG1108",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG11",
+      "level": 1,
+      "name": {
+        "local": "Pool",
+        "en": "Pool",
+        "slug": "pool-cg11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG11",
+        "level": 1,
+        "name": {
+          "local": "Pool",
+          "en": "Pool",
+          "slug": "pool-cg11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.692",
+      "lon": "14.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1109",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mayama",
+      "en": "Mayama",
+      "slug": "mayama-cg1109"
+    },
+    "code": {
+      "id": "CG1109",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG11",
+      "level": 1,
+      "name": {
+        "local": "Pool",
+        "en": "Pool",
+        "slug": "pool-cg11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG11",
+        "level": 1,
+        "name": {
+          "local": "Pool",
+          "en": "Pool",
+          "slug": "pool-cg11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.54",
+      "lon": "14.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1110",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mbandza-Ndounga",
+      "en": "Mbandza-Ndounga",
+      "slug": "mbandza-ndounga-cg1110"
+    },
+    "code": {
+      "id": "CG1110",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG11",
+      "level": 1,
+      "name": {
+        "local": "Pool",
+        "en": "Pool",
+        "slug": "pool-cg11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG11",
+        "level": 1,
+        "name": {
+          "local": "Pool",
+          "en": "Pool",
+          "slug": "pool-cg11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.508",
+      "lon": "14.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1111",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mindouli",
+      "en": "Mindouli",
+      "slug": "mindouli-cg1111"
+    },
+    "code": {
+      "id": "CG1111",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG11",
+      "level": 1,
+      "name": {
+        "local": "Pool",
+        "en": "Pool",
+        "slug": "pool-cg11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG11",
+        "level": 1,
+        "name": {
+          "local": "Pool",
+          "en": "Pool",
+          "slug": "pool-cg11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.226",
+      "lon": "14.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1112",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ngabe",
+      "en": "Ngabe",
+      "slug": "ngabe-cg1112"
+    },
+    "code": {
+      "id": "CG1112",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG11",
+      "level": 1,
+      "name": {
+        "local": "Pool",
+        "en": "Pool",
+        "slug": "pool-cg11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG11",
+        "level": 1,
+        "name": {
+          "local": "Pool",
+          "en": "Pool",
+          "slug": "pool-cg11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.315",
+      "lon": "15.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1113",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Vindza",
+      "en": "Vindza",
+      "slug": "vindza-cg1113"
+    },
+    "code": {
+      "id": "CG1113",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG11",
+      "level": 1,
+      "name": {
+        "local": "Pool",
+        "en": "Pool",
+        "slug": "pool-cg11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG11",
+        "level": 1,
+        "name": {
+          "local": "Pool",
+          "en": "Pool",
+          "slug": "pool-cg11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.184",
+      "lon": "14.568"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,74 @@
+# Pool — Republic of the Congo Administrative Divisions
+
+> 13 districts
+> Code: CG11
+> Coordinates: -3.819, 15.12
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Districts
+
+### Boko
+
+Code: CG1101, Coordinates: -4.712, 14.727
+
+
+### Goma-Tsetse
+
+Code: CG1102, Coordinates: -4.139, 15.12
+
+
+### Ignie
+
+Code: CG1103, Coordinates: -3.896, 15.536
+
+
+### Kimba
+
+Code: CG1104, Coordinates: -3.296, 14.236
+
+
+### Kindamba
+
+Code: CG1105, Coordinates: -3.776, 14.459
+
+
+### Kinkala
+
+Code: CG1106, Coordinates: -4.252, 14.816
+
+
+### Louingui
+
+Code: CG1107, Coordinates: -4.505, 14.672
+
+
+### Loumo
+
+Code: CG1108, Coordinates: -4.692, 14.491
+
+
+### Mayama
+
+Code: CG1109, Coordinates: -3.54, 14.969
+
+
+### Mbandza-Ndounga
+
+Code: CG1110, Coordinates: -4.508, 14.952
+
+
+### Mindouli
+
+Code: CG1111, Coordinates: -4.226, 14.361
+
+
+### Ngabe
+
+Code: CG1112, Coordinates: -3.315, 15.761
+
+
+### Vindza
+
+Code: CG1113, Coordinates: -3.184, 14.568
+
+

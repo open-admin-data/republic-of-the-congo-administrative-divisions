@@ -1,0 +1,45 @@
+{
+  "id": "CG1205",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sembe",
+    "en": "Sembe",
+    "slug": "sembe-cg1205"
+  },
+  "code": {
+    "id": "CG1205",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG12",
+    "level": 1,
+    "name": {
+      "local": "Sangha",
+      "en": "Sangha",
+      "slug": "sangha-cg12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG12",
+      "level": 1,
+      "name": {
+        "local": "Sangha",
+        "en": "Sangha",
+        "slug": "sangha-cg12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.69",
+    "lon": "14.863"
+  },
+  "metadata": {},
+  "source": {}
+}

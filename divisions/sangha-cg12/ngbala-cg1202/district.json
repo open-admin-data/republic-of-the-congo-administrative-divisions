@@ -1,0 +1,45 @@
+{
+  "id": "CG1202",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ngbala",
+    "en": "Ngbala",
+    "slug": "ngbala-cg1202"
+  },
+  "code": {
+    "id": "CG1202",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG12",
+    "level": 1,
+    "name": {
+      "local": "Sangha",
+      "en": "Sangha",
+      "slug": "sangha-cg12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG12",
+      "level": 1,
+      "name": {
+        "local": "Sangha",
+        "en": "Sangha",
+        "slug": "sangha-cg12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.005",
+    "lon": "14.722"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "CG1203",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ouesso",
+    "en": "Ouesso",
+    "slug": "ouesso-cg1203"
+  },
+  "code": {
+    "id": "CG1203",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG12",
+    "level": 1,
+    "name": {
+      "local": "Sangha",
+      "en": "Sangha",
+      "slug": "sangha-cg12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG12",
+      "level": 1,
+      "name": {
+        "local": "Sangha",
+        "en": "Sangha",
+        "slug": "sangha-cg12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.613",
+    "lon": "16.052"
+  },
+  "metadata": {},
+  "source": {}
+}

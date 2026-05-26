@@ -1,0 +1,45 @@
+{
+  "id": "CG0604",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sibiti",
+    "en": "Sibiti",
+    "slug": "sibiti-cg0604"
+  },
+  "code": {
+    "id": "CG0604",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG06",
+    "level": 1,
+    "name": {
+      "local": "Lekoumou",
+      "en": "Lekoumou",
+      "slug": "lekoumou-cg06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG06",
+      "level": 1,
+      "name": {
+        "local": "Lekoumou",
+        "en": "Lekoumou",
+        "slug": "lekoumou-cg06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.655",
+    "lon": "13.113"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "CG05",
+  "level": 1,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Kouilou",
+    "en": "Kouilou",
+    "slug": "kouilou-cg05"
+  },
+  "code": {
+    "id": "CG05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.255",
+    "lon": "12.04"
+  },
+  "metadata": {},
+  "source": {}
+}

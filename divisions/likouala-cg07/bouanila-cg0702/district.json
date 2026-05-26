@@ -1,0 +1,45 @@
+{
+  "id": "CG0702",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bouanila",
+    "en": "Bouanila",
+    "slug": "bouanila-cg0702"
+  },
+  "code": {
+    "id": "CG0702",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG07",
+    "level": 1,
+    "name": {
+      "local": "Likouala",
+      "en": "Likouala",
+      "slug": "likouala-cg07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG07",
+      "level": 1,
+      "name": {
+        "local": "Likouala",
+        "en": "Likouala",
+        "slug": "likouala-cg07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.651",
+    "lon": "17.237"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "CG0109",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tsiaki",
+    "en": "Tsiaki",
+    "slug": "tsiaki-cg0109"
+  },
+  "code": {
+    "id": "CG0109",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG01",
+    "level": 1,
+    "name": {
+      "local": "Bouenza",
+      "en": "Bouenza",
+      "slug": "bouenza-cg01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG01",
+      "level": 1,
+      "name": {
+        "local": "Bouenza",
+        "en": "Bouenza",
+        "slug": "bouenza-cg01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.721",
+    "lon": "13.885"
+  },
+  "metadata": {},
+  "source": {}
+}

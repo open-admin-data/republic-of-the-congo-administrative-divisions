@@ -1,0 +1,47 @@
+[
+  {
+    "id": "CG0201",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Brazzaville",
+      "en": "Brazzaville",
+      "slug": "brazzaville-cg0201"
+    },
+    "code": {
+      "id": "CG0201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG02",
+      "level": 1,
+      "name": {
+        "local": "Brazzaville",
+        "en": "Brazzaville",
+        "slug": "brazzaville-cg02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG02",
+        "level": 1,
+        "name": {
+          "local": "Brazzaville",
+          "en": "Brazzaville",
+          "slug": "brazzaville-cg02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.235",
+      "lon": "15.267"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

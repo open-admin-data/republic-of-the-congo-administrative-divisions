@@ -1,0 +1,44 @@
+# Likouala — Republic of the Congo Administrative Divisions
+
+> 7 districts
+> Code: CG07
+> Coordinates: 1.483, 17.361
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Districts
+
+### Betou
+
+Code: CG0701, Coordinates: 3.031, 18.37
+
+
+### Bouanila
+
+Code: CG0702, Coordinates: 0.651, 17.237
+
+
+### Dongou
+
+Code: CG0703, Coordinates: 2.401, 17.49
+
+
+### Enyelle
+
+Code: CG0704, Coordinates: 2.948, 17.424
+
+
+### Epena
+
+Code: CG0705, Coordinates: 1.739, 17.291
+
+
+### Impfondo
+
+Code: CG0706, Coordinates: 1.339, 17.891
+
+
+### Liranga
+
+Code: CG0707, Coordinates: 0.026, 17.652
+
+

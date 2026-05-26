@@ -1,0 +1,45 @@
+{
+  "id": "CG0505",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nzambi",
+    "en": "Nzambi",
+    "slug": "nzambi-cg0505"
+  },
+  "code": {
+    "id": "CG0505",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG05",
+    "level": 1,
+    "name": {
+      "local": "Kouilou",
+      "en": "Kouilou",
+      "slug": "kouilou-cg05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG05",
+      "level": 1,
+      "name": {
+        "local": "Kouilou",
+        "en": "Kouilou",
+        "slug": "kouilou-cg05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.89",
+    "lon": "11.417"
+  },
+  "metadata": {},
+  "source": {}
+}

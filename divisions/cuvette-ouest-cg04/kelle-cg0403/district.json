@@ -1,0 +1,45 @@
+{
+  "id": "CG0403",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kelle",
+    "en": "Kelle",
+    "slug": "kelle-cg0403"
+  },
+  "code": {
+    "id": "CG0403",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG04",
+    "level": 1,
+    "name": {
+      "local": "Cuvette-Ouest",
+      "en": "Cuvette-Ouest",
+      "slug": "cuvette-ouest-cg04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG04",
+      "level": 1,
+      "name": {
+        "local": "Cuvette-Ouest",
+        "en": "Cuvette-Ouest",
+        "slug": "cuvette-ouest-cg04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.03",
+    "lon": "14.281"
+  },
+  "metadata": {},
+  "source": {}
+}

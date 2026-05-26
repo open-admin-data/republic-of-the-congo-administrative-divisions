@@ -1,0 +1,45 @@
+{
+  "id": "CG0701",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Betou",
+    "en": "Betou",
+    "slug": "betou-cg0701"
+  },
+  "code": {
+    "id": "CG0701",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG07",
+    "level": 1,
+    "name": {
+      "local": "Likouala",
+      "en": "Likouala",
+      "slug": "likouala-cg07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG07",
+      "level": 1,
+      "name": {
+        "local": "Likouala",
+        "en": "Likouala",
+        "slug": "likouala-cg07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.031",
+    "lon": "18.37"
+  },
+  "metadata": {},
+  "source": {}
+}

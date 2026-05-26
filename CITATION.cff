@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Republic of the Congo Administrative Divisions Dataset"
+version: "2026.05"
+date-released: "2026-05-26"
+url: "https://github.com/open-admin-data/republic-of-the-congo-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/republic-of-the-congo-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - republic of the congo
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Republic of the Congo's administrative hierarchy:
+  12 departments, 89 districts.
+  Bilingual with coordinates and postal codes where available.

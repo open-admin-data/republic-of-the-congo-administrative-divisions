@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CG0401",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Etoumbi",
+      "en": "Etoumbi",
+      "slug": "etoumbi-cg0401"
+    },
+    "code": {
+      "id": "CG0401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG04",
+      "level": 1,
+      "name": {
+        "local": "Cuvette-Ouest",
+        "en": "Cuvette-Ouest",
+        "slug": "cuvette-ouest-cg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG04",
+        "level": 1,
+        "name": {
+          "local": "Cuvette-Ouest",
+          "en": "Cuvette-Ouest",
+          "slug": "cuvette-ouest-cg04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.259",
+      "lon": "14.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0402",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ewo",
+      "en": "Ewo",
+      "slug": "ewo-cg0402"
+    },
+    "code": {
+      "id": "CG0402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG04",
+      "level": 1,
+      "name": {
+        "local": "Cuvette-Ouest",
+        "en": "Cuvette-Ouest",
+        "slug": "cuvette-ouest-cg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG04",
+        "level": 1,
+        "name": {
+          "local": "Cuvette-Ouest",
+          "en": "Cuvette-Ouest",
+          "slug": "cuvette-ouest-cg04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.979",
+      "lon": "14.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0403",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kelle",
+      "en": "Kelle",
+      "slug": "kelle-cg0403"
+    },
+    "code": {
+      "id": "CG0403",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG04",
+      "level": 1,
+      "name": {
+        "local": "Cuvette-Ouest",
+        "en": "Cuvette-Ouest",
+        "slug": "cuvette-ouest-cg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG04",
+        "level": 1,
+        "name": {
+          "local": "Cuvette-Ouest",
+          "en": "Cuvette-Ouest",
+          "slug": "cuvette-ouest-cg04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.03",
+      "lon": "14.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0404",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mbama",
+      "en": "Mbama",
+      "slug": "mbama-cg0404"
+    },
+    "code": {
+      "id": "CG0404",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG04",
+      "level": 1,
+      "name": {
+        "local": "Cuvette-Ouest",
+        "en": "Cuvette-Ouest",
+        "slug": "cuvette-ouest-cg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG04",
+        "level": 1,
+        "name": {
+          "local": "Cuvette-Ouest",
+          "en": "Cuvette-Ouest",
+          "slug": "cuvette-ouest-cg04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.492",
+      "lon": "14.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0405",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mbomo",
+      "en": "Mbomo",
+      "slug": "mbomo-cg0405"
+    },
+    "code": {
+      "id": "CG0405",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG04",
+      "level": 1,
+      "name": {
+        "local": "Cuvette-Ouest",
+        "en": "Cuvette-Ouest",
+        "slug": "cuvette-ouest-cg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG04",
+        "level": 1,
+        "name": {
+          "local": "Cuvette-Ouest",
+          "en": "Cuvette-Ouest",
+          "slug": "cuvette-ouest-cg04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.722",
+      "lon": "14.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0406",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Okoyo",
+      "en": "Okoyo",
+      "slug": "okoyo-cg0406"
+    },
+    "code": {
+      "id": "CG0406",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG04",
+      "level": 1,
+      "name": {
+        "local": "Cuvette-Ouest",
+        "en": "Cuvette-Ouest",
+        "slug": "cuvette-ouest-cg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG04",
+        "level": 1,
+        "name": {
+          "local": "Cuvette-Ouest",
+          "en": "Cuvette-Ouest",
+          "slug": "cuvette-ouest-cg04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.549",
+      "lon": "14.756"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

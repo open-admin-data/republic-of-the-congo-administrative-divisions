@@ -1,0 +1,29 @@
+{
+  "id": "CG01",
+  "level": 1,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Bouenza",
+    "en": "Bouenza",
+    "slug": "bouenza-cg01"
+  },
+  "code": {
+    "id": "CG01",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.131",
+    "lon": "13.503"
+  },
+  "metadata": {},
+  "source": {}
+}

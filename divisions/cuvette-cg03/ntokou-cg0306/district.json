@@ -1,0 +1,45 @@
+{
+  "id": "CG0306",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ntokou",
+    "en": "Ntokou",
+    "slug": "ntokou-cg0306"
+  },
+  "code": {
+    "id": "CG0306",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG03",
+    "level": 1,
+    "name": {
+      "local": "Cuvette",
+      "en": "Cuvette",
+      "slug": "cuvette-cg03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG03",
+      "level": 1,
+      "name": {
+        "local": "Cuvette",
+        "en": "Cuvette",
+        "slug": "cuvette-cg03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.089",
+    "lon": "16.111"
+  },
+  "metadata": {},
+  "source": {}
+}

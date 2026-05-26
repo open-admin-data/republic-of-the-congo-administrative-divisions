@@ -1,0 +1,45 @@
+{
+  "id": "CG1103",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ignie",
+    "en": "Ignie",
+    "slug": "ignie-cg1103"
+  },
+  "code": {
+    "id": "CG1103",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG11",
+    "level": 1,
+    "name": {
+      "local": "Pool",
+      "en": "Pool",
+      "slug": "pool-cg11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG11",
+      "level": 1,
+      "name": {
+        "local": "Pool",
+        "en": "Pool",
+        "slug": "pool-cg11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.896",
+    "lon": "15.536"
+  },
+  "metadata": {},
+  "source": {}
+}

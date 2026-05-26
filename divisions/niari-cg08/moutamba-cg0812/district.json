@@ -1,0 +1,45 @@
+{
+  "id": "CG0812",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Moutamba",
+    "en": "Moutamba",
+    "slug": "moutamba-cg0812"
+  },
+  "code": {
+    "id": "CG0812",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG08",
+    "level": 1,
+    "name": {
+      "local": "Niari",
+      "en": "Niari",
+      "slug": "niari-cg08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG08",
+      "level": 1,
+      "name": {
+        "local": "Niari",
+        "en": "Niari",
+        "slug": "niari-cg08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.098",
+    "lon": "12.612"
+  },
+  "metadata": {},
+  "source": {}
+}

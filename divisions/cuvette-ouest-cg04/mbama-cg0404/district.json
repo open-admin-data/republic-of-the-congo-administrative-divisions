@@ -1,0 +1,45 @@
+{
+  "id": "CG0404",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mbama",
+    "en": "Mbama",
+    "slug": "mbama-cg0404"
+  },
+  "code": {
+    "id": "CG0404",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG04",
+    "level": 1,
+    "name": {
+      "local": "Cuvette-Ouest",
+      "en": "Cuvette-Ouest",
+      "slug": "cuvette-ouest-cg04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG04",
+      "level": 1,
+      "name": {
+        "local": "Cuvette-Ouest",
+        "en": "Cuvette-Ouest",
+        "slug": "cuvette-ouest-cg04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.492",
+    "lon": "14.925"
+  },
+  "metadata": {},
+  "source": {}
+}

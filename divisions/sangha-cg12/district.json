@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CG1201",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mokeko",
+      "en": "Mokeko",
+      "slug": "mokeko-cg1201"
+    },
+    "code": {
+      "id": "CG1201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG12",
+      "level": 1,
+      "name": {
+        "local": "Sangha",
+        "en": "Sangha",
+        "slug": "sangha-cg12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG12",
+        "level": 1,
+        "name": {
+          "local": "Sangha",
+          "en": "Sangha",
+          "slug": "sangha-cg12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.384",
+      "lon": "16.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1202",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ngbala",
+      "en": "Ngbala",
+      "slug": "ngbala-cg1202"
+    },
+    "code": {
+      "id": "CG1202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG12",
+      "level": 1,
+      "name": {
+        "local": "Sangha",
+        "en": "Sangha",
+        "slug": "sangha-cg12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG12",
+        "level": 1,
+        "name": {
+          "local": "Sangha",
+          "en": "Sangha",
+          "slug": "sangha-cg12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.005",
+      "lon": "14.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1203",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ouesso",
+      "en": "Ouesso",
+      "slug": "ouesso-cg1203"
+    },
+    "code": {
+      "id": "CG1203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG12",
+      "level": 1,
+      "name": {
+        "local": "Sangha",
+        "en": "Sangha",
+        "slug": "sangha-cg12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG12",
+        "level": 1,
+        "name": {
+          "local": "Sangha",
+          "en": "Sangha",
+          "slug": "sangha-cg12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.613",
+      "lon": "16.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1204",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pikounda",
+      "en": "Pikounda",
+      "slug": "pikounda-cg1204"
+    },
+    "code": {
+      "id": "CG1204",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG12",
+      "level": 1,
+      "name": {
+        "local": "Sangha",
+        "en": "Sangha",
+        "slug": "sangha-cg12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG12",
+        "level": 1,
+        "name": {
+          "local": "Sangha",
+          "en": "Sangha",
+          "slug": "sangha-cg12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.569",
+      "lon": "16.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1205",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sembe",
+      "en": "Sembe",
+      "slug": "sembe-cg1205"
+    },
+    "code": {
+      "id": "CG1205",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG12",
+      "level": 1,
+      "name": {
+        "local": "Sangha",
+        "en": "Sangha",
+        "slug": "sangha-cg12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG12",
+        "level": 1,
+        "name": {
+          "local": "Sangha",
+          "en": "Sangha",
+          "slug": "sangha-cg12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.69",
+      "lon": "14.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1206",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Souanke",
+      "en": "Souanke",
+      "slug": "souanke-cg1206"
+    },
+    "code": {
+      "id": "CG1206",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG12",
+      "level": 1,
+      "name": {
+        "local": "Sangha",
+        "en": "Sangha",
+        "slug": "sangha-cg12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG12",
+        "level": 1,
+        "name": {
+          "local": "Sangha",
+          "en": "Sangha",
+          "slug": "sangha-cg12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.715",
+      "lon": "13.761"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

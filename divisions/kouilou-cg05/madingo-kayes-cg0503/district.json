@@ -1,0 +1,45 @@
+{
+  "id": "CG0503",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Madingo-Kayes",
+    "en": "Madingo-Kayes",
+    "slug": "madingo-kayes-cg0503"
+  },
+  "code": {
+    "id": "CG0503",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG05",
+    "level": 1,
+    "name": {
+      "local": "Kouilou",
+      "en": "Kouilou",
+      "slug": "kouilou-cg05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG05",
+      "level": 1,
+      "name": {
+        "local": "Kouilou",
+        "en": "Kouilou",
+        "slug": "kouilou-cg05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.004",
+    "lon": "11.734"
+  },
+  "metadata": {},
+  "source": {}
+}

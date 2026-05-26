@@ -1,0 +1,227 @@
+[
+  {
+    "id": "CG0601",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bambama",
+      "en": "Bambama",
+      "slug": "bambama-cg0601"
+    },
+    "code": {
+      "id": "CG0601",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG06",
+      "level": 1,
+      "name": {
+        "local": "Lekoumou",
+        "en": "Lekoumou",
+        "slug": "lekoumou-cg06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG06",
+        "level": 1,
+        "name": {
+          "local": "Lekoumou",
+          "en": "Lekoumou",
+          "slug": "lekoumou-cg06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.501",
+      "lon": "13.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0602",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Komono",
+      "en": "Komono",
+      "slug": "komono-cg0602"
+    },
+    "code": {
+      "id": "CG0602",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG06",
+      "level": 1,
+      "name": {
+        "local": "Lekoumou",
+        "en": "Lekoumou",
+        "slug": "lekoumou-cg06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG06",
+        "level": 1,
+        "name": {
+          "local": "Lekoumou",
+          "en": "Lekoumou",
+          "slug": "lekoumou-cg06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.968",
+      "lon": "13.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0603",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mayeye",
+      "en": "Mayeye",
+      "slug": "mayeye-cg0603"
+    },
+    "code": {
+      "id": "CG0603",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG06",
+      "level": 1,
+      "name": {
+        "local": "Lekoumou",
+        "en": "Lekoumou",
+        "slug": "lekoumou-cg06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG06",
+        "level": 1,
+        "name": {
+          "local": "Lekoumou",
+          "en": "Lekoumou",
+          "slug": "lekoumou-cg06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.604",
+      "lon": "13.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0604",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sibiti",
+      "en": "Sibiti",
+      "slug": "sibiti-cg0604"
+    },
+    "code": {
+      "id": "CG0604",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG06",
+      "level": 1,
+      "name": {
+        "local": "Lekoumou",
+        "en": "Lekoumou",
+        "slug": "lekoumou-cg06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG06",
+        "level": 1,
+        "name": {
+          "local": "Lekoumou",
+          "en": "Lekoumou",
+          "slug": "lekoumou-cg06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.655",
+      "lon": "13.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0605",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zanaga",
+      "en": "Zanaga",
+      "slug": "zanaga-cg0605"
+    },
+    "code": {
+      "id": "CG0605",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG06",
+      "level": 1,
+      "name": {
+        "local": "Lekoumou",
+        "en": "Lekoumou",
+        "slug": "lekoumou-cg06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG06",
+        "level": 1,
+        "name": {
+          "local": "Lekoumou",
+          "en": "Lekoumou",
+          "slug": "lekoumou-cg06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.019",
+      "lon": "13.923"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

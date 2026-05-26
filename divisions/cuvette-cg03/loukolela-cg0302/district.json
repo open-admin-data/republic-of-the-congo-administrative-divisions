@@ -1,0 +1,45 @@
+{
+  "id": "CG0302",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Loukolela",
+    "en": "Loukolela",
+    "slug": "loukolela-cg0302"
+  },
+  "code": {
+    "id": "CG0302",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG03",
+    "level": 1,
+    "name": {
+      "local": "Cuvette",
+      "en": "Cuvette",
+      "slug": "cuvette-cg03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG03",
+      "level": 1,
+      "name": {
+        "local": "Cuvette",
+        "en": "Cuvette",
+        "slug": "cuvette-cg03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.376",
+    "lon": "17.193"
+  },
+  "metadata": {},
+  "source": {}
+}

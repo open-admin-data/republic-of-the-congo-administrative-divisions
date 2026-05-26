@@ -1,0 +1,79 @@
+# Niari — Republic of the Congo Administrative Divisions
+
+> 14 districts
+> Code: CG08
+> Coordinates: -3.362, 12.364
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Districts
+
+### Banba
+
+Code: CG0801, Coordinates: -3.673, 12.093
+
+
+### Divenie
+
+Code: CG0802, Coordinates: -2.603, 12.115
+
+
+### Kibangou
+
+Code: CG0803, Coordinates: -3.252, 12.248
+
+
+### Kimongo
+
+Code: CG0804, Coordinates: -4.53, 13.163
+
+
+### Londela-Kayes
+
+Code: CG0805, Coordinates: -4.707, 13.407
+
+
+### Louvakou
+
+Code: CG0806, Coordinates: -4.049, 12.627
+
+
+### Makabana
+
+Code: CG0807, Coordinates: -3.572, 12.572
+
+
+### Mayoko
+
+Code: CG0808, Coordinates: -2.363, 12.754
+
+
+### Mbinda
+
+Code: CG0809, Coordinates: -2.053, 12.826
+
+
+### Moungoundou-Nord
+
+Code: CG0810, Coordinates: -1.984, 12.607
+
+
+### Moungoundou-Sud
+
+Code: CG0811, Coordinates: -2.663, 12.7
+
+
+### Moutamba
+
+Code: CG0812, Coordinates: -3.098, 12.612
+
+
+### Nyanga
+
+Code: CG0813, Coordinates: -2.72, 11.786
+
+
+### Yaya
+
+Code: CG0814, Coordinates: -3.034, 12.99
+
+

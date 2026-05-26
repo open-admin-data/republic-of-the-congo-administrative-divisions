@@ -1,0 +1,74 @@
+# Republic of the Congo Administrative Divisions
+
+> Open dataset of Republic of the Congo's administrative hierarchy:
+> 12 departments, 89 districts.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total departments: 12
+- Total districts: 89
+- Coordinates: included (all levels)
+- Last updated: 2026-05-26
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All departments (JSON)](https://raw.githubusercontent.com/open-admin-data/republic-of-the-congo-administrative-divisions/main/data/all-department.json)
+- [All districts (JSON)](https://raw.githubusercontent.com/open-admin-data/republic-of-the-congo-administrative-divisions/main/data/all-district.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/republic-of-the-congo-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/republic-of-the-congo-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/republic-of-the-congo-administrative-divisions/main/data/schema.json)
+
+## Browse by Department
+
+- [Bouenza](https://github.com/open-admin-data/republic-of-the-congo-administrative-divisions/tree/main/divisions/bouenza-cg01/) — 10 districts
+- [Brazzaville](https://github.com/open-admin-data/republic-of-the-congo-administrative-divisions/tree/main/divisions/brazzaville-cg02/) — 1 districts
+- [Cuvette](https://github.com/open-admin-data/republic-of-the-congo-administrative-divisions/tree/main/divisions/cuvette-cg03/) — 9 districts
+- [Cuvette-Ouest](https://github.com/open-admin-data/republic-of-the-congo-administrative-divisions/tree/main/divisions/cuvette-ouest-cg04/) — 6 districts
+- [Kouilou](https://github.com/open-admin-data/republic-of-the-congo-administrative-divisions/tree/main/divisions/kouilou-cg05/) — 6 districts
+- [Lekoumou](https://github.com/open-admin-data/republic-of-the-congo-administrative-divisions/tree/main/divisions/lekoumou-cg06/) — 5 districts
+- [Likouala](https://github.com/open-admin-data/republic-of-the-congo-administrative-divisions/tree/main/divisions/likouala-cg07/) — 7 districts
+- [Niari](https://github.com/open-admin-data/republic-of-the-congo-administrative-divisions/tree/main/divisions/niari-cg08/) — 14 districts
+- [Plateaux](https://github.com/open-admin-data/republic-of-the-congo-administrative-divisions/tree/main/divisions/plateaux-cg09/) — 11 districts
+- [Point-Noire](https://github.com/open-admin-data/republic-of-the-congo-administrative-divisions/tree/main/divisions/point-noire-cg10/) — 1 districts
+- [Pool](https://github.com/open-admin-data/republic-of-the-congo-administrative-divisions/tree/main/divisions/pool-cg11/) — 13 districts
+- [Sangha](https://github.com/open-admin-data/republic-of-the-congo-administrative-divisions/tree/main/divisions/sangha-cg12/) — 6 districts
+
+## Per-Department Full Data
+
+- [Bouenza](https://raw.githubusercontent.com/open-admin-data/republic-of-the-congo-administrative-divisions/main/docs/llms-full/bouenza-cg01.txt)
+- [Brazzaville](https://raw.githubusercontent.com/open-admin-data/republic-of-the-congo-administrative-divisions/main/docs/llms-full/brazzaville-cg02.txt)
+- [Cuvette](https://raw.githubusercontent.com/open-admin-data/republic-of-the-congo-administrative-divisions/main/docs/llms-full/cuvette-cg03.txt)
+- [Cuvette-Ouest](https://raw.githubusercontent.com/open-admin-data/republic-of-the-congo-administrative-divisions/main/docs/llms-full/cuvette-ouest-cg04.txt)
+- [Kouilou](https://raw.githubusercontent.com/open-admin-data/republic-of-the-congo-administrative-divisions/main/docs/llms-full/kouilou-cg05.txt)
+- [Lekoumou](https://raw.githubusercontent.com/open-admin-data/republic-of-the-congo-administrative-divisions/main/docs/llms-full/lekoumou-cg06.txt)
+- [Likouala](https://raw.githubusercontent.com/open-admin-data/republic-of-the-congo-administrative-divisions/main/docs/llms-full/likouala-cg07.txt)
+- [Niari](https://raw.githubusercontent.com/open-admin-data/republic-of-the-congo-administrative-divisions/main/docs/llms-full/niari-cg08.txt)
+- [Plateaux](https://raw.githubusercontent.com/open-admin-data/republic-of-the-congo-administrative-divisions/main/docs/llms-full/plateaux-cg09.txt)
+- [Point-Noire](https://raw.githubusercontent.com/open-admin-data/republic-of-the-congo-administrative-divisions/main/docs/llms-full/point-noire-cg10.txt)
+- [Pool](https://raw.githubusercontent.com/open-admin-data/republic-of-the-congo-administrative-divisions/main/docs/llms-full/pool-cg11.txt)
+- [Sangha](https://raw.githubusercontent.com/open-admin-data/republic-of-the-congo-administrative-divisions/main/docs/llms-full/sangha-cg12.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (department), 2 (district)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Republic of the Congo Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/republic-of-the-congo-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

@@ -1,0 +1,45 @@
+{
+  "id": "CG1106",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kinkala",
+    "en": "Kinkala",
+    "slug": "kinkala-cg1106"
+  },
+  "code": {
+    "id": "CG1106",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG11",
+    "level": 1,
+    "name": {
+      "local": "Pool",
+      "en": "Pool",
+      "slug": "pool-cg11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG11",
+      "level": 1,
+      "name": {
+        "local": "Pool",
+        "en": "Pool",
+        "slug": "pool-cg11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.252",
+    "lon": "14.816"
+  },
+  "metadata": {},
+  "source": {}
+}

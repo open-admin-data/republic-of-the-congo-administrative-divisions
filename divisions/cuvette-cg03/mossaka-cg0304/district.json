@@ -1,0 +1,45 @@
+{
+  "id": "CG0304",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mossaka",
+    "en": "Mossaka",
+    "slug": "mossaka-cg0304"
+  },
+  "code": {
+    "id": "CG0304",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG03",
+    "level": 1,
+    "name": {
+      "local": "Cuvette",
+      "en": "Cuvette",
+      "slug": "cuvette-cg03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG03",
+      "level": 1,
+      "name": {
+        "local": "Cuvette",
+        "en": "Cuvette",
+        "slug": "cuvette-cg03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.706",
+    "lon": "16.662"
+  },
+  "metadata": {},
+  "source": {}
+}

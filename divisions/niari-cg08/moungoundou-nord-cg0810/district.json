@@ -1,0 +1,45 @@
+{
+  "id": "CG0810",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Moungoundou-Nord",
+    "en": "Moungoundou-Nord",
+    "slug": "moungoundou-nord-cg0810"
+  },
+  "code": {
+    "id": "CG0810",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG08",
+    "level": 1,
+    "name": {
+      "local": "Niari",
+      "en": "Niari",
+      "slug": "niari-cg08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG08",
+      "level": 1,
+      "name": {
+        "local": "Niari",
+        "en": "Niari",
+        "slug": "niari-cg08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.984",
+    "lon": "12.607"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "CG0406",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Okoyo",
+    "en": "Okoyo",
+    "slug": "okoyo-cg0406"
+  },
+  "code": {
+    "id": "CG0406",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG04",
+    "level": 1,
+    "name": {
+      "local": "Cuvette-Ouest",
+      "en": "Cuvette-Ouest",
+      "slug": "cuvette-ouest-cg04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG04",
+      "level": 1,
+      "name": {
+        "local": "Cuvette-Ouest",
+        "en": "Cuvette-Ouest",
+        "slug": "cuvette-ouest-cg04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.549",
+    "lon": "14.756"
+  },
+  "metadata": {},
+  "source": {}
+}

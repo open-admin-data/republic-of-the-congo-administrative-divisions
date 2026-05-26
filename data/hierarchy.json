@@ -1,0 +1,1238 @@
+[
+  {
+    "id": "CG01",
+    "name": {
+      "local": "Bouenza",
+      "en": "Bouenza",
+      "slug": "bouenza-cg01"
+    },
+    "code": {
+      "id": "CG01",
+      "iso": null
+    },
+    "district": [
+      {
+        "id": "CG0101",
+        "name": {
+          "local": "Boko-Songho",
+          "en": "Boko-Songho",
+          "slug": "boko-songho-cg0101"
+        },
+        "code": {
+          "id": "CG0101",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0102",
+        "name": {
+          "local": "Kingoue",
+          "en": "Kingoue",
+          "slug": "kingoue-cg0102"
+        },
+        "code": {
+          "id": "CG0102",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0103",
+        "name": {
+          "local": "Loudima",
+          "en": "Loudima",
+          "slug": "loudima-cg0103"
+        },
+        "code": {
+          "id": "CG0103",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0104",
+        "name": {
+          "local": "Mabombo",
+          "en": "Mabombo",
+          "slug": "mabombo-cg0104"
+        },
+        "code": {
+          "id": "CG0104",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0105",
+        "name": {
+          "local": "Madingou",
+          "en": "Madingou",
+          "slug": "madingou-cg0105"
+        },
+        "code": {
+          "id": "CG0105",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0106",
+        "name": {
+          "local": "Mfouati",
+          "en": "Mfouati",
+          "slug": "mfouati-cg0106"
+        },
+        "code": {
+          "id": "CG0106",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0107",
+        "name": {
+          "local": "Mouyondzi",
+          "en": "Mouyondzi",
+          "slug": "mouyondzi-cg0107"
+        },
+        "code": {
+          "id": "CG0107",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0108",
+        "name": {
+          "local": "Nkayi",
+          "en": "Nkayi",
+          "slug": "nkayi-cg0108"
+        },
+        "code": {
+          "id": "CG0108",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0109",
+        "name": {
+          "local": "Tsiaki",
+          "en": "Tsiaki",
+          "slug": "tsiaki-cg0109"
+        },
+        "code": {
+          "id": "CG0109",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0110",
+        "name": {
+          "local": "Yamba",
+          "en": "Yamba",
+          "slug": "yamba-cg0110"
+        },
+        "code": {
+          "id": "CG0110",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "CG02",
+    "name": {
+      "local": "Brazzaville",
+      "en": "Brazzaville",
+      "slug": "brazzaville-cg02"
+    },
+    "code": {
+      "id": "CG02",
+      "iso": null
+    },
+    "district": [
+      {
+        "id": "CG0201",
+        "name": {
+          "local": "Brazzaville",
+          "en": "Brazzaville",
+          "slug": "brazzaville-cg0201"
+        },
+        "code": {
+          "id": "CG0201",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "CG03",
+    "name": {
+      "local": "Cuvette",
+      "en": "Cuvette",
+      "slug": "cuvette-cg03"
+    },
+    "code": {
+      "id": "CG03",
+      "iso": null
+    },
+    "district": [
+      {
+        "id": "CG0301",
+        "name": {
+          "local": "Boundji",
+          "en": "Boundji",
+          "slug": "boundji-cg0301"
+        },
+        "code": {
+          "id": "CG0301",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0302",
+        "name": {
+          "local": "Loukolela",
+          "en": "Loukolela",
+          "slug": "loukolela-cg0302"
+        },
+        "code": {
+          "id": "CG0302",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0303",
+        "name": {
+          "local": "Makoua",
+          "en": "Makoua",
+          "slug": "makoua-cg0303"
+        },
+        "code": {
+          "id": "CG0303",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0304",
+        "name": {
+          "local": "Mossaka",
+          "en": "Mossaka",
+          "slug": "mossaka-cg0304"
+        },
+        "code": {
+          "id": "CG0304",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0305",
+        "name": {
+          "local": "Ngoko",
+          "en": "Ngoko",
+          "slug": "ngoko-cg0305"
+        },
+        "code": {
+          "id": "CG0305",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0306",
+        "name": {
+          "local": "Ntokou",
+          "en": "Ntokou",
+          "slug": "ntokou-cg0306"
+        },
+        "code": {
+          "id": "CG0306",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0307",
+        "name": {
+          "local": "Owando",
+          "en": "Owando",
+          "slug": "owando-cg0307"
+        },
+        "code": {
+          "id": "CG0307",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0308",
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-cg0308"
+        },
+        "code": {
+          "id": "CG0308",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0309",
+        "name": {
+          "local": "Tchikapika",
+          "en": "Tchikapika",
+          "slug": "tchikapika-cg0309"
+        },
+        "code": {
+          "id": "CG0309",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "CG04",
+    "name": {
+      "local": "Cuvette-Ouest",
+      "en": "Cuvette-Ouest",
+      "slug": "cuvette-ouest-cg04"
+    },
+    "code": {
+      "id": "CG04",
+      "iso": null
+    },
+    "district": [
+      {
+        "id": "CG0401",
+        "name": {
+          "local": "Etoumbi",
+          "en": "Etoumbi",
+          "slug": "etoumbi-cg0401"
+        },
+        "code": {
+          "id": "CG0401",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0402",
+        "name": {
+          "local": "Ewo",
+          "en": "Ewo",
+          "slug": "ewo-cg0402"
+        },
+        "code": {
+          "id": "CG0402",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0403",
+        "name": {
+          "local": "Kelle",
+          "en": "Kelle",
+          "slug": "kelle-cg0403"
+        },
+        "code": {
+          "id": "CG0403",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0404",
+        "name": {
+          "local": "Mbama",
+          "en": "Mbama",
+          "slug": "mbama-cg0404"
+        },
+        "code": {
+          "id": "CG0404",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0405",
+        "name": {
+          "local": "Mbomo",
+          "en": "Mbomo",
+          "slug": "mbomo-cg0405"
+        },
+        "code": {
+          "id": "CG0405",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0406",
+        "name": {
+          "local": "Okoyo",
+          "en": "Okoyo",
+          "slug": "okoyo-cg0406"
+        },
+        "code": {
+          "id": "CG0406",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "CG05",
+    "name": {
+      "local": "Kouilou",
+      "en": "Kouilou",
+      "slug": "kouilou-cg05"
+    },
+    "code": {
+      "id": "CG05",
+      "iso": null
+    },
+    "district": [
+      {
+        "id": "CG0501",
+        "name": {
+          "local": "Hinda",
+          "en": "Hinda",
+          "slug": "hinda-cg0501"
+        },
+        "code": {
+          "id": "CG0501",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0502",
+        "name": {
+          "local": "Kakameoka",
+          "en": "Kakameoka",
+          "slug": "kakameoka-cg0502"
+        },
+        "code": {
+          "id": "CG0502",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0503",
+        "name": {
+          "local": "Madingo-Kayes",
+          "en": "Madingo-Kayes",
+          "slug": "madingo-kayes-cg0503"
+        },
+        "code": {
+          "id": "CG0503",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0504",
+        "name": {
+          "local": "Mvouti",
+          "en": "Mvouti",
+          "slug": "mvouti-cg0504"
+        },
+        "code": {
+          "id": "CG0504",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0505",
+        "name": {
+          "local": "Nzambi",
+          "en": "Nzambi",
+          "slug": "nzambi-cg0505"
+        },
+        "code": {
+          "id": "CG0505",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0506",
+        "name": {
+          "local": "Tchiamba-Nzassi",
+          "en": "Tchiamba-Nzassi",
+          "slug": "tchiamba-nzassi-cg0506"
+        },
+        "code": {
+          "id": "CG0506",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "CG06",
+    "name": {
+      "local": "Lekoumou",
+      "en": "Lekoumou",
+      "slug": "lekoumou-cg06"
+    },
+    "code": {
+      "id": "CG06",
+      "iso": null
+    },
+    "district": [
+      {
+        "id": "CG0601",
+        "name": {
+          "local": "Bambama",
+          "en": "Bambama",
+          "slug": "bambama-cg0601"
+        },
+        "code": {
+          "id": "CG0601",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0602",
+        "name": {
+          "local": "Komono",
+          "en": "Komono",
+          "slug": "komono-cg0602"
+        },
+        "code": {
+          "id": "CG0602",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0603",
+        "name": {
+          "local": "Mayeye",
+          "en": "Mayeye",
+          "slug": "mayeye-cg0603"
+        },
+        "code": {
+          "id": "CG0603",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0604",
+        "name": {
+          "local": "Sibiti",
+          "en": "Sibiti",
+          "slug": "sibiti-cg0604"
+        },
+        "code": {
+          "id": "CG0604",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0605",
+        "name": {
+          "local": "Zanaga",
+          "en": "Zanaga",
+          "slug": "zanaga-cg0605"
+        },
+        "code": {
+          "id": "CG0605",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "CG07",
+    "name": {
+      "local": "Likouala",
+      "en": "Likouala",
+      "slug": "likouala-cg07"
+    },
+    "code": {
+      "id": "CG07",
+      "iso": null
+    },
+    "district": [
+      {
+        "id": "CG0701",
+        "name": {
+          "local": "Betou",
+          "en": "Betou",
+          "slug": "betou-cg0701"
+        },
+        "code": {
+          "id": "CG0701",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0702",
+        "name": {
+          "local": "Bouanila",
+          "en": "Bouanila",
+          "slug": "bouanila-cg0702"
+        },
+        "code": {
+          "id": "CG0702",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0703",
+        "name": {
+          "local": "Dongou",
+          "en": "Dongou",
+          "slug": "dongou-cg0703"
+        },
+        "code": {
+          "id": "CG0703",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0704",
+        "name": {
+          "local": "Enyelle",
+          "en": "Enyelle",
+          "slug": "enyelle-cg0704"
+        },
+        "code": {
+          "id": "CG0704",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0705",
+        "name": {
+          "local": "Epena",
+          "en": "Epena",
+          "slug": "epena-cg0705"
+        },
+        "code": {
+          "id": "CG0705",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0706",
+        "name": {
+          "local": "Impfondo",
+          "en": "Impfondo",
+          "slug": "impfondo-cg0706"
+        },
+        "code": {
+          "id": "CG0706",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0707",
+        "name": {
+          "local": "Liranga",
+          "en": "Liranga",
+          "slug": "liranga-cg0707"
+        },
+        "code": {
+          "id": "CG0707",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "CG08",
+    "name": {
+      "local": "Niari",
+      "en": "Niari",
+      "slug": "niari-cg08"
+    },
+    "code": {
+      "id": "CG08",
+      "iso": null
+    },
+    "district": [
+      {
+        "id": "CG0801",
+        "name": {
+          "local": "Banba",
+          "en": "Banba",
+          "slug": "banba-cg0801"
+        },
+        "code": {
+          "id": "CG0801",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0802",
+        "name": {
+          "local": "Divenie",
+          "en": "Divenie",
+          "slug": "divenie-cg0802"
+        },
+        "code": {
+          "id": "CG0802",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0803",
+        "name": {
+          "local": "Kibangou",
+          "en": "Kibangou",
+          "slug": "kibangou-cg0803"
+        },
+        "code": {
+          "id": "CG0803",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0804",
+        "name": {
+          "local": "Kimongo",
+          "en": "Kimongo",
+          "slug": "kimongo-cg0804"
+        },
+        "code": {
+          "id": "CG0804",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0805",
+        "name": {
+          "local": "Londela-Kayes",
+          "en": "Londela-Kayes",
+          "slug": "londela-kayes-cg0805"
+        },
+        "code": {
+          "id": "CG0805",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0806",
+        "name": {
+          "local": "Louvakou",
+          "en": "Louvakou",
+          "slug": "louvakou-cg0806"
+        },
+        "code": {
+          "id": "CG0806",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0807",
+        "name": {
+          "local": "Makabana",
+          "en": "Makabana",
+          "slug": "makabana-cg0807"
+        },
+        "code": {
+          "id": "CG0807",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0808",
+        "name": {
+          "local": "Mayoko",
+          "en": "Mayoko",
+          "slug": "mayoko-cg0808"
+        },
+        "code": {
+          "id": "CG0808",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0809",
+        "name": {
+          "local": "Mbinda",
+          "en": "Mbinda",
+          "slug": "mbinda-cg0809"
+        },
+        "code": {
+          "id": "CG0809",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0810",
+        "name": {
+          "local": "Moungoundou-Nord",
+          "en": "Moungoundou-Nord",
+          "slug": "moungoundou-nord-cg0810"
+        },
+        "code": {
+          "id": "CG0810",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0811",
+        "name": {
+          "local": "Moungoundou-Sud",
+          "en": "Moungoundou-Sud",
+          "slug": "moungoundou-sud-cg0811"
+        },
+        "code": {
+          "id": "CG0811",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0812",
+        "name": {
+          "local": "Moutamba",
+          "en": "Moutamba",
+          "slug": "moutamba-cg0812"
+        },
+        "code": {
+          "id": "CG0812",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0813",
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga-cg0813"
+        },
+        "code": {
+          "id": "CG0813",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0814",
+        "name": {
+          "local": "Yaya",
+          "en": "Yaya",
+          "slug": "yaya-cg0814"
+        },
+        "code": {
+          "id": "CG0814",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "CG09",
+    "name": {
+      "local": "Plateaux",
+      "en": "Plateaux",
+      "slug": "plateaux-cg09"
+    },
+    "code": {
+      "id": "CG09",
+      "iso": null
+    },
+    "district": [
+      {
+        "id": "CG0901",
+        "name": {
+          "local": "Abala",
+          "en": "Abala",
+          "slug": "abala-cg0901"
+        },
+        "code": {
+          "id": "CG0901",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0902",
+        "name": {
+          "local": "Allembe",
+          "en": "Allembe",
+          "slug": "allembe-cg0902"
+        },
+        "code": {
+          "id": "CG0902",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0903",
+        "name": {
+          "local": "Djambala",
+          "en": "Djambala",
+          "slug": "djambala-cg0903"
+        },
+        "code": {
+          "id": "CG0903",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0904",
+        "name": {
+          "local": "Gamboma",
+          "en": "Gamboma",
+          "slug": "gamboma-cg0904"
+        },
+        "code": {
+          "id": "CG0904",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0905",
+        "name": {
+          "local": "Lekana",
+          "en": "Lekana",
+          "slug": "lekana-cg0905"
+        },
+        "code": {
+          "id": "CG0905",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0906",
+        "name": {
+          "local": "Makotimpoko",
+          "en": "Makotimpoko",
+          "slug": "makotimpoko-cg0906"
+        },
+        "code": {
+          "id": "CG0906",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0907",
+        "name": {
+          "local": "Mbon",
+          "en": "Mbon",
+          "slug": "mbon-cg0907"
+        },
+        "code": {
+          "id": "CG0907",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0908",
+        "name": {
+          "local": "Mpouya",
+          "en": "Mpouya",
+          "slug": "mpouya-cg0908"
+        },
+        "code": {
+          "id": "CG0908",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0909",
+        "name": {
+          "local": "Ngo",
+          "en": "Ngo",
+          "slug": "ngo-cg0909"
+        },
+        "code": {
+          "id": "CG0909",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0910",
+        "name": {
+          "local": "Ollombo",
+          "en": "Ollombo",
+          "slug": "ollombo-cg0910"
+        },
+        "code": {
+          "id": "CG0910",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG0911",
+        "name": {
+          "local": "Ongogni",
+          "en": "Ongogni",
+          "slug": "ongogni-cg0911"
+        },
+        "code": {
+          "id": "CG0911",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "CG10",
+    "name": {
+      "local": "Point-Noire",
+      "en": "Point-Noire",
+      "slug": "point-noire-cg10"
+    },
+    "code": {
+      "id": "CG10",
+      "iso": null
+    },
+    "district": [
+      {
+        "id": "CG1001",
+        "name": {
+          "local": "Pointe-Noire",
+          "en": "Pointe-Noire",
+          "slug": "pointe-noire-cg1001"
+        },
+        "code": {
+          "id": "CG1001",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "CG11",
+    "name": {
+      "local": "Pool",
+      "en": "Pool",
+      "slug": "pool-cg11"
+    },
+    "code": {
+      "id": "CG11",
+      "iso": null
+    },
+    "district": [
+      {
+        "id": "CG1101",
+        "name": {
+          "local": "Boko",
+          "en": "Boko",
+          "slug": "boko-cg1101"
+        },
+        "code": {
+          "id": "CG1101",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG1102",
+        "name": {
+          "local": "Goma-Tsetse",
+          "en": "Goma-Tsetse",
+          "slug": "goma-tsetse-cg1102"
+        },
+        "code": {
+          "id": "CG1102",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG1103",
+        "name": {
+          "local": "Ignie",
+          "en": "Ignie",
+          "slug": "ignie-cg1103"
+        },
+        "code": {
+          "id": "CG1103",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG1104",
+        "name": {
+          "local": "Kimba",
+          "en": "Kimba",
+          "slug": "kimba-cg1104"
+        },
+        "code": {
+          "id": "CG1104",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG1105",
+        "name": {
+          "local": "Kindamba",
+          "en": "Kindamba",
+          "slug": "kindamba-cg1105"
+        },
+        "code": {
+          "id": "CG1105",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG1106",
+        "name": {
+          "local": "Kinkala",
+          "en": "Kinkala",
+          "slug": "kinkala-cg1106"
+        },
+        "code": {
+          "id": "CG1106",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG1107",
+        "name": {
+          "local": "Louingui",
+          "en": "Louingui",
+          "slug": "louingui-cg1107"
+        },
+        "code": {
+          "id": "CG1107",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG1108",
+        "name": {
+          "local": "Loumo",
+          "en": "Loumo",
+          "slug": "loumo-cg1108"
+        },
+        "code": {
+          "id": "CG1108",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG1109",
+        "name": {
+          "local": "Mayama",
+          "en": "Mayama",
+          "slug": "mayama-cg1109"
+        },
+        "code": {
+          "id": "CG1109",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG1110",
+        "name": {
+          "local": "Mbandza-Ndounga",
+          "en": "Mbandza-Ndounga",
+          "slug": "mbandza-ndounga-cg1110"
+        },
+        "code": {
+          "id": "CG1110",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG1111",
+        "name": {
+          "local": "Mindouli",
+          "en": "Mindouli",
+          "slug": "mindouli-cg1111"
+        },
+        "code": {
+          "id": "CG1111",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG1112",
+        "name": {
+          "local": "Ngabe",
+          "en": "Ngabe",
+          "slug": "ngabe-cg1112"
+        },
+        "code": {
+          "id": "CG1112",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG1113",
+        "name": {
+          "local": "Vindza",
+          "en": "Vindza",
+          "slug": "vindza-cg1113"
+        },
+        "code": {
+          "id": "CG1113",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "CG12",
+    "name": {
+      "local": "Sangha",
+      "en": "Sangha",
+      "slug": "sangha-cg12"
+    },
+    "code": {
+      "id": "CG12",
+      "iso": null
+    },
+    "district": [
+      {
+        "id": "CG1201",
+        "name": {
+          "local": "Mokeko",
+          "en": "Mokeko",
+          "slug": "mokeko-cg1201"
+        },
+        "code": {
+          "id": "CG1201",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG1202",
+        "name": {
+          "local": "Ngbala",
+          "en": "Ngbala",
+          "slug": "ngbala-cg1202"
+        },
+        "code": {
+          "id": "CG1202",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG1203",
+        "name": {
+          "local": "Ouesso",
+          "en": "Ouesso",
+          "slug": "ouesso-cg1203"
+        },
+        "code": {
+          "id": "CG1203",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG1204",
+        "name": {
+          "local": "Pikounda",
+          "en": "Pikounda",
+          "slug": "pikounda-cg1204"
+        },
+        "code": {
+          "id": "CG1204",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG1205",
+        "name": {
+          "local": "Sembe",
+          "en": "Sembe",
+          "slug": "sembe-cg1205"
+        },
+        "code": {
+          "id": "CG1205",
+          "iso": null
+        }
+      },
+      {
+        "id": "CG1206",
+        "name": {
+          "local": "Souanke",
+          "en": "Souanke",
+          "slug": "souanke-cg1206"
+        },
+        "code": {
+          "id": "CG1206",
+          "iso": null
+        }
+      }
+    ]
+  }
+]

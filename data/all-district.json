@@ -1,0 +1,4007 @@
+[
+  {
+    "id": "CG0901",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Abala",
+      "en": "Abala",
+      "slug": "abala-cg0901"
+    },
+    "code": {
+      "id": "CG0901",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG09",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-cg09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG09",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-cg09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.498",
+      "lon": "15.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0902",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Allembe",
+      "en": "Allembe",
+      "slug": "allembe-cg0902"
+    },
+    "code": {
+      "id": "CG0902",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG09",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-cg09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG09",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-cg09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.374",
+      "lon": "15.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0601",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bambama",
+      "en": "Bambama",
+      "slug": "bambama-cg0601"
+    },
+    "code": {
+      "id": "CG0601",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG06",
+      "level": 1,
+      "name": {
+        "local": "Lekoumou",
+        "en": "Lekoumou",
+        "slug": "lekoumou-cg06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG06",
+        "level": 1,
+        "name": {
+          "local": "Lekoumou",
+          "en": "Lekoumou",
+          "slug": "lekoumou-cg06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.501",
+      "lon": "13.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0801",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Banba",
+      "en": "Banba",
+      "slug": "banba-cg0801"
+    },
+    "code": {
+      "id": "CG0801",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG08",
+      "level": 1,
+      "name": {
+        "local": "Niari",
+        "en": "Niari",
+        "slug": "niari-cg08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG08",
+        "level": 1,
+        "name": {
+          "local": "Niari",
+          "en": "Niari",
+          "slug": "niari-cg08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.673",
+      "lon": "12.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0701",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Betou",
+      "en": "Betou",
+      "slug": "betou-cg0701"
+    },
+    "code": {
+      "id": "CG0701",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG07",
+      "level": 1,
+      "name": {
+        "local": "Likouala",
+        "en": "Likouala",
+        "slug": "likouala-cg07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG07",
+        "level": 1,
+        "name": {
+          "local": "Likouala",
+          "en": "Likouala",
+          "slug": "likouala-cg07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.031",
+      "lon": "18.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1101",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Boko",
+      "en": "Boko",
+      "slug": "boko-cg1101"
+    },
+    "code": {
+      "id": "CG1101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG11",
+      "level": 1,
+      "name": {
+        "local": "Pool",
+        "en": "Pool",
+        "slug": "pool-cg11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG11",
+        "level": 1,
+        "name": {
+          "local": "Pool",
+          "en": "Pool",
+          "slug": "pool-cg11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.712",
+      "lon": "14.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0101",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Boko-Songho",
+      "en": "Boko-Songho",
+      "slug": "boko-songho-cg0101"
+    },
+    "code": {
+      "id": "CG0101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG01",
+      "level": 1,
+      "name": {
+        "local": "Bouenza",
+        "en": "Bouenza",
+        "slug": "bouenza-cg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG01",
+        "level": 1,
+        "name": {
+          "local": "Bouenza",
+          "en": "Bouenza",
+          "slug": "bouenza-cg01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.546",
+      "lon": "13.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0702",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bouanila",
+      "en": "Bouanila",
+      "slug": "bouanila-cg0702"
+    },
+    "code": {
+      "id": "CG0702",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG07",
+      "level": 1,
+      "name": {
+        "local": "Likouala",
+        "en": "Likouala",
+        "slug": "likouala-cg07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG07",
+        "level": 1,
+        "name": {
+          "local": "Likouala",
+          "en": "Likouala",
+          "slug": "likouala-cg07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.651",
+      "lon": "17.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0301",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Boundji",
+      "en": "Boundji",
+      "slug": "boundji-cg0301"
+    },
+    "code": {
+      "id": "CG0301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG03",
+      "level": 1,
+      "name": {
+        "local": "Cuvette",
+        "en": "Cuvette",
+        "slug": "cuvette-cg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG03",
+        "level": 1,
+        "name": {
+          "local": "Cuvette",
+          "en": "Cuvette",
+          "slug": "cuvette-cg03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.879",
+      "lon": "15.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0201",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Brazzaville",
+      "en": "Brazzaville",
+      "slug": "brazzaville-cg0201"
+    },
+    "code": {
+      "id": "CG0201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG02",
+      "level": 1,
+      "name": {
+        "local": "Brazzaville",
+        "en": "Brazzaville",
+        "slug": "brazzaville-cg02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG02",
+        "level": 1,
+        "name": {
+          "local": "Brazzaville",
+          "en": "Brazzaville",
+          "slug": "brazzaville-cg02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.235",
+      "lon": "15.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0802",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Divenie",
+      "en": "Divenie",
+      "slug": "divenie-cg0802"
+    },
+    "code": {
+      "id": "CG0802",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG08",
+      "level": 1,
+      "name": {
+        "local": "Niari",
+        "en": "Niari",
+        "slug": "niari-cg08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG08",
+        "level": 1,
+        "name": {
+          "local": "Niari",
+          "en": "Niari",
+          "slug": "niari-cg08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.603",
+      "lon": "12.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0903",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Djambala",
+      "en": "Djambala",
+      "slug": "djambala-cg0903"
+    },
+    "code": {
+      "id": "CG0903",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG09",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-cg09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG09",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-cg09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.663",
+      "lon": "14.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0703",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dongou",
+      "en": "Dongou",
+      "slug": "dongou-cg0703"
+    },
+    "code": {
+      "id": "CG0703",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG07",
+      "level": 1,
+      "name": {
+        "local": "Likouala",
+        "en": "Likouala",
+        "slug": "likouala-cg07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG07",
+        "level": 1,
+        "name": {
+          "local": "Likouala",
+          "en": "Likouala",
+          "slug": "likouala-cg07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.401",
+      "lon": "17.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0704",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Enyelle",
+      "en": "Enyelle",
+      "slug": "enyelle-cg0704"
+    },
+    "code": {
+      "id": "CG0704",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG07",
+      "level": 1,
+      "name": {
+        "local": "Likouala",
+        "en": "Likouala",
+        "slug": "likouala-cg07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG07",
+        "level": 1,
+        "name": {
+          "local": "Likouala",
+          "en": "Likouala",
+          "slug": "likouala-cg07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.948",
+      "lon": "17.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0705",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Epena",
+      "en": "Epena",
+      "slug": "epena-cg0705"
+    },
+    "code": {
+      "id": "CG0705",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG07",
+      "level": 1,
+      "name": {
+        "local": "Likouala",
+        "en": "Likouala",
+        "slug": "likouala-cg07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG07",
+        "level": 1,
+        "name": {
+          "local": "Likouala",
+          "en": "Likouala",
+          "slug": "likouala-cg07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.739",
+      "lon": "17.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0401",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Etoumbi",
+      "en": "Etoumbi",
+      "slug": "etoumbi-cg0401"
+    },
+    "code": {
+      "id": "CG0401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG04",
+      "level": 1,
+      "name": {
+        "local": "Cuvette-Ouest",
+        "en": "Cuvette-Ouest",
+        "slug": "cuvette-ouest-cg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG04",
+        "level": 1,
+        "name": {
+          "local": "Cuvette-Ouest",
+          "en": "Cuvette-Ouest",
+          "slug": "cuvette-ouest-cg04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.259",
+      "lon": "14.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0402",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ewo",
+      "en": "Ewo",
+      "slug": "ewo-cg0402"
+    },
+    "code": {
+      "id": "CG0402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG04",
+      "level": 1,
+      "name": {
+        "local": "Cuvette-Ouest",
+        "en": "Cuvette-Ouest",
+        "slug": "cuvette-ouest-cg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG04",
+        "level": 1,
+        "name": {
+          "local": "Cuvette-Ouest",
+          "en": "Cuvette-Ouest",
+          "slug": "cuvette-ouest-cg04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.979",
+      "lon": "14.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0904",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gamboma",
+      "en": "Gamboma",
+      "slug": "gamboma-cg0904"
+    },
+    "code": {
+      "id": "CG0904",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG09",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-cg09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG09",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-cg09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.906",
+      "lon": "15.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1102",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Goma-Tsetse",
+      "en": "Goma-Tsetse",
+      "slug": "goma-tsetse-cg1102"
+    },
+    "code": {
+      "id": "CG1102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG11",
+      "level": 1,
+      "name": {
+        "local": "Pool",
+        "en": "Pool",
+        "slug": "pool-cg11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG11",
+        "level": 1,
+        "name": {
+          "local": "Pool",
+          "en": "Pool",
+          "slug": "pool-cg11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.139",
+      "lon": "15.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0501",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hinda",
+      "en": "Hinda",
+      "slug": "hinda-cg0501"
+    },
+    "code": {
+      "id": "CG0501",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG05",
+      "level": 1,
+      "name": {
+        "local": "Kouilou",
+        "en": "Kouilou",
+        "slug": "kouilou-cg05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG05",
+        "level": 1,
+        "name": {
+          "local": "Kouilou",
+          "en": "Kouilou",
+          "slug": "kouilou-cg05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.667",
+      "lon": "11.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1103",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ignie",
+      "en": "Ignie",
+      "slug": "ignie-cg1103"
+    },
+    "code": {
+      "id": "CG1103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG11",
+      "level": 1,
+      "name": {
+        "local": "Pool",
+        "en": "Pool",
+        "slug": "pool-cg11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG11",
+        "level": 1,
+        "name": {
+          "local": "Pool",
+          "en": "Pool",
+          "slug": "pool-cg11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.896",
+      "lon": "15.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0706",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Impfondo",
+      "en": "Impfondo",
+      "slug": "impfondo-cg0706"
+    },
+    "code": {
+      "id": "CG0706",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG07",
+      "level": 1,
+      "name": {
+        "local": "Likouala",
+        "en": "Likouala",
+        "slug": "likouala-cg07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG07",
+        "level": 1,
+        "name": {
+          "local": "Likouala",
+          "en": "Likouala",
+          "slug": "likouala-cg07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.339",
+      "lon": "17.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0502",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kakameoka",
+      "en": "Kakameoka",
+      "slug": "kakameoka-cg0502"
+    },
+    "code": {
+      "id": "CG0502",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG05",
+      "level": 1,
+      "name": {
+        "local": "Kouilou",
+        "en": "Kouilou",
+        "slug": "kouilou-cg05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG05",
+        "level": 1,
+        "name": {
+          "local": "Kouilou",
+          "en": "Kouilou",
+          "slug": "kouilou-cg05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.16",
+      "lon": "12.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0403",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kelle",
+      "en": "Kelle",
+      "slug": "kelle-cg0403"
+    },
+    "code": {
+      "id": "CG0403",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG04",
+      "level": 1,
+      "name": {
+        "local": "Cuvette-Ouest",
+        "en": "Cuvette-Ouest",
+        "slug": "cuvette-ouest-cg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG04",
+        "level": 1,
+        "name": {
+          "local": "Cuvette-Ouest",
+          "en": "Cuvette-Ouest",
+          "slug": "cuvette-ouest-cg04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.03",
+      "lon": "14.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0803",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kibangou",
+      "en": "Kibangou",
+      "slug": "kibangou-cg0803"
+    },
+    "code": {
+      "id": "CG0803",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG08",
+      "level": 1,
+      "name": {
+        "local": "Niari",
+        "en": "Niari",
+        "slug": "niari-cg08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG08",
+        "level": 1,
+        "name": {
+          "local": "Niari",
+          "en": "Niari",
+          "slug": "niari-cg08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.252",
+      "lon": "12.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1104",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kimba",
+      "en": "Kimba",
+      "slug": "kimba-cg1104"
+    },
+    "code": {
+      "id": "CG1104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG11",
+      "level": 1,
+      "name": {
+        "local": "Pool",
+        "en": "Pool",
+        "slug": "pool-cg11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG11",
+        "level": 1,
+        "name": {
+          "local": "Pool",
+          "en": "Pool",
+          "slug": "pool-cg11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.296",
+      "lon": "14.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0804",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kimongo",
+      "en": "Kimongo",
+      "slug": "kimongo-cg0804"
+    },
+    "code": {
+      "id": "CG0804",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG08",
+      "level": 1,
+      "name": {
+        "local": "Niari",
+        "en": "Niari",
+        "slug": "niari-cg08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG08",
+        "level": 1,
+        "name": {
+          "local": "Niari",
+          "en": "Niari",
+          "slug": "niari-cg08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.53",
+      "lon": "13.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1105",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kindamba",
+      "en": "Kindamba",
+      "slug": "kindamba-cg1105"
+    },
+    "code": {
+      "id": "CG1105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG11",
+      "level": 1,
+      "name": {
+        "local": "Pool",
+        "en": "Pool",
+        "slug": "pool-cg11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG11",
+        "level": 1,
+        "name": {
+          "local": "Pool",
+          "en": "Pool",
+          "slug": "pool-cg11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.776",
+      "lon": "14.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0102",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kingoue",
+      "en": "Kingoue",
+      "slug": "kingoue-cg0102"
+    },
+    "code": {
+      "id": "CG0102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG01",
+      "level": 1,
+      "name": {
+        "local": "Bouenza",
+        "en": "Bouenza",
+        "slug": "bouenza-cg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG01",
+        "level": 1,
+        "name": {
+          "local": "Bouenza",
+          "en": "Bouenza",
+          "slug": "bouenza-cg01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.75",
+      "lon": "14.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1106",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kinkala",
+      "en": "Kinkala",
+      "slug": "kinkala-cg1106"
+    },
+    "code": {
+      "id": "CG1106",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG11",
+      "level": 1,
+      "name": {
+        "local": "Pool",
+        "en": "Pool",
+        "slug": "pool-cg11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG11",
+        "level": 1,
+        "name": {
+          "local": "Pool",
+          "en": "Pool",
+          "slug": "pool-cg11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.252",
+      "lon": "14.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0602",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Komono",
+      "en": "Komono",
+      "slug": "komono-cg0602"
+    },
+    "code": {
+      "id": "CG0602",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG06",
+      "level": 1,
+      "name": {
+        "local": "Lekoumou",
+        "en": "Lekoumou",
+        "slug": "lekoumou-cg06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG06",
+        "level": 1,
+        "name": {
+          "local": "Lekoumou",
+          "en": "Lekoumou",
+          "slug": "lekoumou-cg06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.968",
+      "lon": "13.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0905",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lekana",
+      "en": "Lekana",
+      "slug": "lekana-cg0905"
+    },
+    "code": {
+      "id": "CG0905",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG09",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-cg09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG09",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-cg09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.214",
+      "lon": "14.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0707",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Liranga",
+      "en": "Liranga",
+      "slug": "liranga-cg0707"
+    },
+    "code": {
+      "id": "CG0707",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG07",
+      "level": 1,
+      "name": {
+        "local": "Likouala",
+        "en": "Likouala",
+        "slug": "likouala-cg07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG07",
+        "level": 1,
+        "name": {
+          "local": "Likouala",
+          "en": "Likouala",
+          "slug": "likouala-cg07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.026",
+      "lon": "17.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0805",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Londela-Kayes",
+      "en": "Londela-Kayes",
+      "slug": "londela-kayes-cg0805"
+    },
+    "code": {
+      "id": "CG0805",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG08",
+      "level": 1,
+      "name": {
+        "local": "Niari",
+        "en": "Niari",
+        "slug": "niari-cg08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG08",
+        "level": 1,
+        "name": {
+          "local": "Niari",
+          "en": "Niari",
+          "slug": "niari-cg08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.707",
+      "lon": "13.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0103",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Loudima",
+      "en": "Loudima",
+      "slug": "loudima-cg0103"
+    },
+    "code": {
+      "id": "CG0103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG01",
+      "level": 1,
+      "name": {
+        "local": "Bouenza",
+        "en": "Bouenza",
+        "slug": "bouenza-cg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG01",
+        "level": 1,
+        "name": {
+          "local": "Bouenza",
+          "en": "Bouenza",
+          "slug": "bouenza-cg01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.984",
+      "lon": "13.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1107",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Louingui",
+      "en": "Louingui",
+      "slug": "louingui-cg1107"
+    },
+    "code": {
+      "id": "CG1107",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG11",
+      "level": 1,
+      "name": {
+        "local": "Pool",
+        "en": "Pool",
+        "slug": "pool-cg11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG11",
+        "level": 1,
+        "name": {
+          "local": "Pool",
+          "en": "Pool",
+          "slug": "pool-cg11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.505",
+      "lon": "14.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0302",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Loukolela",
+      "en": "Loukolela",
+      "slug": "loukolela-cg0302"
+    },
+    "code": {
+      "id": "CG0302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG03",
+      "level": 1,
+      "name": {
+        "local": "Cuvette",
+        "en": "Cuvette",
+        "slug": "cuvette-cg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG03",
+        "level": 1,
+        "name": {
+          "local": "Cuvette",
+          "en": "Cuvette",
+          "slug": "cuvette-cg03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.376",
+      "lon": "17.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1108",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Loumo",
+      "en": "Loumo",
+      "slug": "loumo-cg1108"
+    },
+    "code": {
+      "id": "CG1108",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG11",
+      "level": 1,
+      "name": {
+        "local": "Pool",
+        "en": "Pool",
+        "slug": "pool-cg11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG11",
+        "level": 1,
+        "name": {
+          "local": "Pool",
+          "en": "Pool",
+          "slug": "pool-cg11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.692",
+      "lon": "14.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0806",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Louvakou",
+      "en": "Louvakou",
+      "slug": "louvakou-cg0806"
+    },
+    "code": {
+      "id": "CG0806",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG08",
+      "level": 1,
+      "name": {
+        "local": "Niari",
+        "en": "Niari",
+        "slug": "niari-cg08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG08",
+        "level": 1,
+        "name": {
+          "local": "Niari",
+          "en": "Niari",
+          "slug": "niari-cg08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.049",
+      "lon": "12.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0104",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mabombo",
+      "en": "Mabombo",
+      "slug": "mabombo-cg0104"
+    },
+    "code": {
+      "id": "CG0104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG01",
+      "level": 1,
+      "name": {
+        "local": "Bouenza",
+        "en": "Bouenza",
+        "slug": "bouenza-cg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG01",
+        "level": 1,
+        "name": {
+          "local": "Bouenza",
+          "en": "Bouenza",
+          "slug": "bouenza-cg01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.023",
+      "lon": "13.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0503",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Madingo-Kayes",
+      "en": "Madingo-Kayes",
+      "slug": "madingo-kayes-cg0503"
+    },
+    "code": {
+      "id": "CG0503",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG05",
+      "level": 1,
+      "name": {
+        "local": "Kouilou",
+        "en": "Kouilou",
+        "slug": "kouilou-cg05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG05",
+        "level": 1,
+        "name": {
+          "local": "Kouilou",
+          "en": "Kouilou",
+          "slug": "kouilou-cg05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.004",
+      "lon": "11.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0105",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Madingou",
+      "en": "Madingou",
+      "slug": "madingou-cg0105"
+    },
+    "code": {
+      "id": "CG0105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG01",
+      "level": 1,
+      "name": {
+        "local": "Bouenza",
+        "en": "Bouenza",
+        "slug": "bouenza-cg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG01",
+        "level": 1,
+        "name": {
+          "local": "Bouenza",
+          "en": "Bouenza",
+          "slug": "bouenza-cg01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.266",
+      "lon": "13.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0807",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Makabana",
+      "en": "Makabana",
+      "slug": "makabana-cg0807"
+    },
+    "code": {
+      "id": "CG0807",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG08",
+      "level": 1,
+      "name": {
+        "local": "Niari",
+        "en": "Niari",
+        "slug": "niari-cg08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG08",
+        "level": 1,
+        "name": {
+          "local": "Niari",
+          "en": "Niari",
+          "slug": "niari-cg08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.572",
+      "lon": "12.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0906",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Makotimpoko",
+      "en": "Makotimpoko",
+      "slug": "makotimpoko-cg0906"
+    },
+    "code": {
+      "id": "CG0906",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG09",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-cg09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG09",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-cg09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.749",
+      "lon": "16.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0303",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Makoua",
+      "en": "Makoua",
+      "slug": "makoua-cg0303"
+    },
+    "code": {
+      "id": "CG0303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG03",
+      "level": 1,
+      "name": {
+        "local": "Cuvette",
+        "en": "Cuvette",
+        "slug": "cuvette-cg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG03",
+        "level": 1,
+        "name": {
+          "local": "Cuvette",
+          "en": "Cuvette",
+          "slug": "cuvette-cg03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.113",
+      "lon": "15.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1109",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mayama",
+      "en": "Mayama",
+      "slug": "mayama-cg1109"
+    },
+    "code": {
+      "id": "CG1109",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG11",
+      "level": 1,
+      "name": {
+        "local": "Pool",
+        "en": "Pool",
+        "slug": "pool-cg11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG11",
+        "level": 1,
+        "name": {
+          "local": "Pool",
+          "en": "Pool",
+          "slug": "pool-cg11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.54",
+      "lon": "14.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0603",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mayeye",
+      "en": "Mayeye",
+      "slug": "mayeye-cg0603"
+    },
+    "code": {
+      "id": "CG0603",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG06",
+      "level": 1,
+      "name": {
+        "local": "Lekoumou",
+        "en": "Lekoumou",
+        "slug": "lekoumou-cg06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG06",
+        "level": 1,
+        "name": {
+          "local": "Lekoumou",
+          "en": "Lekoumou",
+          "slug": "lekoumou-cg06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.604",
+      "lon": "13.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0808",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mayoko",
+      "en": "Mayoko",
+      "slug": "mayoko-cg0808"
+    },
+    "code": {
+      "id": "CG0808",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG08",
+      "level": 1,
+      "name": {
+        "local": "Niari",
+        "en": "Niari",
+        "slug": "niari-cg08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG08",
+        "level": 1,
+        "name": {
+          "local": "Niari",
+          "en": "Niari",
+          "slug": "niari-cg08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.363",
+      "lon": "12.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0404",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mbama",
+      "en": "Mbama",
+      "slug": "mbama-cg0404"
+    },
+    "code": {
+      "id": "CG0404",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG04",
+      "level": 1,
+      "name": {
+        "local": "Cuvette-Ouest",
+        "en": "Cuvette-Ouest",
+        "slug": "cuvette-ouest-cg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG04",
+        "level": 1,
+        "name": {
+          "local": "Cuvette-Ouest",
+          "en": "Cuvette-Ouest",
+          "slug": "cuvette-ouest-cg04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.492",
+      "lon": "14.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1110",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mbandza-Ndounga",
+      "en": "Mbandza-Ndounga",
+      "slug": "mbandza-ndounga-cg1110"
+    },
+    "code": {
+      "id": "CG1110",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG11",
+      "level": 1,
+      "name": {
+        "local": "Pool",
+        "en": "Pool",
+        "slug": "pool-cg11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG11",
+        "level": 1,
+        "name": {
+          "local": "Pool",
+          "en": "Pool",
+          "slug": "pool-cg11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.508",
+      "lon": "14.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0809",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mbinda",
+      "en": "Mbinda",
+      "slug": "mbinda-cg0809"
+    },
+    "code": {
+      "id": "CG0809",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG08",
+      "level": 1,
+      "name": {
+        "local": "Niari",
+        "en": "Niari",
+        "slug": "niari-cg08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG08",
+        "level": 1,
+        "name": {
+          "local": "Niari",
+          "en": "Niari",
+          "slug": "niari-cg08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.053",
+      "lon": "12.826"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0405",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mbomo",
+      "en": "Mbomo",
+      "slug": "mbomo-cg0405"
+    },
+    "code": {
+      "id": "CG0405",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG04",
+      "level": 1,
+      "name": {
+        "local": "Cuvette-Ouest",
+        "en": "Cuvette-Ouest",
+        "slug": "cuvette-ouest-cg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG04",
+        "level": 1,
+        "name": {
+          "local": "Cuvette-Ouest",
+          "en": "Cuvette-Ouest",
+          "slug": "cuvette-ouest-cg04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.722",
+      "lon": "14.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0907",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mbon",
+      "en": "Mbon",
+      "slug": "mbon-cg0907"
+    },
+    "code": {
+      "id": "CG0907",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG09",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-cg09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG09",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-cg09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.985",
+      "lon": "15.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0106",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mfouati",
+      "en": "Mfouati",
+      "slug": "mfouati-cg0106"
+    },
+    "code": {
+      "id": "CG0106",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG01",
+      "level": 1,
+      "name": {
+        "local": "Bouenza",
+        "en": "Bouenza",
+        "slug": "bouenza-cg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG01",
+        "level": 1,
+        "name": {
+          "local": "Bouenza",
+          "en": "Bouenza",
+          "slug": "bouenza-cg01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.383",
+      "lon": "13.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1111",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mindouli",
+      "en": "Mindouli",
+      "slug": "mindouli-cg1111"
+    },
+    "code": {
+      "id": "CG1111",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG11",
+      "level": 1,
+      "name": {
+        "local": "Pool",
+        "en": "Pool",
+        "slug": "pool-cg11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG11",
+        "level": 1,
+        "name": {
+          "local": "Pool",
+          "en": "Pool",
+          "slug": "pool-cg11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.226",
+      "lon": "14.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1201",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mokeko",
+      "en": "Mokeko",
+      "slug": "mokeko-cg1201"
+    },
+    "code": {
+      "id": "CG1201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG12",
+      "level": 1,
+      "name": {
+        "local": "Sangha",
+        "en": "Sangha",
+        "slug": "sangha-cg12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG12",
+        "level": 1,
+        "name": {
+          "local": "Sangha",
+          "en": "Sangha",
+          "slug": "sangha-cg12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.384",
+      "lon": "16.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0304",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mossaka",
+      "en": "Mossaka",
+      "slug": "mossaka-cg0304"
+    },
+    "code": {
+      "id": "CG0304",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG03",
+      "level": 1,
+      "name": {
+        "local": "Cuvette",
+        "en": "Cuvette",
+        "slug": "cuvette-cg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG03",
+        "level": 1,
+        "name": {
+          "local": "Cuvette",
+          "en": "Cuvette",
+          "slug": "cuvette-cg03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.706",
+      "lon": "16.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0810",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Moungoundou-Nord",
+      "en": "Moungoundou-Nord",
+      "slug": "moungoundou-nord-cg0810"
+    },
+    "code": {
+      "id": "CG0810",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG08",
+      "level": 1,
+      "name": {
+        "local": "Niari",
+        "en": "Niari",
+        "slug": "niari-cg08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG08",
+        "level": 1,
+        "name": {
+          "local": "Niari",
+          "en": "Niari",
+          "slug": "niari-cg08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.984",
+      "lon": "12.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0811",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Moungoundou-Sud",
+      "en": "Moungoundou-Sud",
+      "slug": "moungoundou-sud-cg0811"
+    },
+    "code": {
+      "id": "CG0811",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG08",
+      "level": 1,
+      "name": {
+        "local": "Niari",
+        "en": "Niari",
+        "slug": "niari-cg08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG08",
+        "level": 1,
+        "name": {
+          "local": "Niari",
+          "en": "Niari",
+          "slug": "niari-cg08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.663",
+      "lon": "12.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0812",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Moutamba",
+      "en": "Moutamba",
+      "slug": "moutamba-cg0812"
+    },
+    "code": {
+      "id": "CG0812",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG08",
+      "level": 1,
+      "name": {
+        "local": "Niari",
+        "en": "Niari",
+        "slug": "niari-cg08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG08",
+        "level": 1,
+        "name": {
+          "local": "Niari",
+          "en": "Niari",
+          "slug": "niari-cg08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.098",
+      "lon": "12.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0107",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mouyondzi",
+      "en": "Mouyondzi",
+      "slug": "mouyondzi-cg0107"
+    },
+    "code": {
+      "id": "CG0107",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG01",
+      "level": 1,
+      "name": {
+        "local": "Bouenza",
+        "en": "Bouenza",
+        "slug": "bouenza-cg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG01",
+        "level": 1,
+        "name": {
+          "local": "Bouenza",
+          "en": "Bouenza",
+          "slug": "bouenza-cg01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.969",
+      "lon": "13.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0908",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mpouya",
+      "en": "Mpouya",
+      "slug": "mpouya-cg0908"
+    },
+    "code": {
+      "id": "CG0908",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG09",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-cg09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG09",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-cg09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.618",
+      "lon": "16.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0504",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mvouti",
+      "en": "Mvouti",
+      "slug": "mvouti-cg0504"
+    },
+    "code": {
+      "id": "CG0504",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG05",
+      "level": 1,
+      "name": {
+        "local": "Kouilou",
+        "en": "Kouilou",
+        "slug": "kouilou-cg05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG05",
+        "level": 1,
+        "name": {
+          "local": "Kouilou",
+          "en": "Kouilou",
+          "slug": "kouilou-cg05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.392",
+      "lon": "12.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1112",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ngabe",
+      "en": "Ngabe",
+      "slug": "ngabe-cg1112"
+    },
+    "code": {
+      "id": "CG1112",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG11",
+      "level": 1,
+      "name": {
+        "local": "Pool",
+        "en": "Pool",
+        "slug": "pool-cg11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG11",
+        "level": 1,
+        "name": {
+          "local": "Pool",
+          "en": "Pool",
+          "slug": "pool-cg11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.315",
+      "lon": "15.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1202",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ngbala",
+      "en": "Ngbala",
+      "slug": "ngbala-cg1202"
+    },
+    "code": {
+      "id": "CG1202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG12",
+      "level": 1,
+      "name": {
+        "local": "Sangha",
+        "en": "Sangha",
+        "slug": "sangha-cg12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG12",
+        "level": 1,
+        "name": {
+          "local": "Sangha",
+          "en": "Sangha",
+          "slug": "sangha-cg12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.005",
+      "lon": "14.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0909",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ngo",
+      "en": "Ngo",
+      "slug": "ngo-cg0909"
+    },
+    "code": {
+      "id": "CG0909",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG09",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-cg09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG09",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-cg09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.544",
+      "lon": "15.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0305",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ngoko",
+      "en": "Ngoko",
+      "slug": "ngoko-cg0305"
+    },
+    "code": {
+      "id": "CG0305",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG03",
+      "level": 1,
+      "name": {
+        "local": "Cuvette",
+        "en": "Cuvette",
+        "slug": "cuvette-cg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG03",
+        "level": 1,
+        "name": {
+          "local": "Cuvette",
+          "en": "Cuvette",
+          "slug": "cuvette-cg03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.63",
+      "lon": "15.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0108",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nkayi",
+      "en": "Nkayi",
+      "slug": "nkayi-cg0108"
+    },
+    "code": {
+      "id": "CG0108",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG01",
+      "level": 1,
+      "name": {
+        "local": "Bouenza",
+        "en": "Bouenza",
+        "slug": "bouenza-cg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG01",
+        "level": 1,
+        "name": {
+          "local": "Bouenza",
+          "en": "Bouenza",
+          "slug": "bouenza-cg01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.248",
+      "lon": "13.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0306",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ntokou",
+      "en": "Ntokou",
+      "slug": "ntokou-cg0306"
+    },
+    "code": {
+      "id": "CG0306",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG03",
+      "level": 1,
+      "name": {
+        "local": "Cuvette",
+        "en": "Cuvette",
+        "slug": "cuvette-cg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG03",
+        "level": 1,
+        "name": {
+          "local": "Cuvette",
+          "en": "Cuvette",
+          "slug": "cuvette-cg03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.089",
+      "lon": "16.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0813",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nyanga",
+      "en": "Nyanga",
+      "slug": "nyanga-cg0813"
+    },
+    "code": {
+      "id": "CG0813",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG08",
+      "level": 1,
+      "name": {
+        "local": "Niari",
+        "en": "Niari",
+        "slug": "niari-cg08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG08",
+        "level": 1,
+        "name": {
+          "local": "Niari",
+          "en": "Niari",
+          "slug": "niari-cg08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.72",
+      "lon": "11.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0505",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nzambi",
+      "en": "Nzambi",
+      "slug": "nzambi-cg0505"
+    },
+    "code": {
+      "id": "CG0505",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG05",
+      "level": 1,
+      "name": {
+        "local": "Kouilou",
+        "en": "Kouilou",
+        "slug": "kouilou-cg05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG05",
+        "level": 1,
+        "name": {
+          "local": "Kouilou",
+          "en": "Kouilou",
+          "slug": "kouilou-cg05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.89",
+      "lon": "11.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0406",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Okoyo",
+      "en": "Okoyo",
+      "slug": "okoyo-cg0406"
+    },
+    "code": {
+      "id": "CG0406",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG04",
+      "level": 1,
+      "name": {
+        "local": "Cuvette-Ouest",
+        "en": "Cuvette-Ouest",
+        "slug": "cuvette-ouest-cg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG04",
+        "level": 1,
+        "name": {
+          "local": "Cuvette-Ouest",
+          "en": "Cuvette-Ouest",
+          "slug": "cuvette-ouest-cg04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.549",
+      "lon": "14.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0910",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ollombo",
+      "en": "Ollombo",
+      "slug": "ollombo-cg0910"
+    },
+    "code": {
+      "id": "CG0910",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG09",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-cg09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG09",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-cg09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.27",
+      "lon": "15.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0911",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ongogni",
+      "en": "Ongogni",
+      "slug": "ongogni-cg0911"
+    },
+    "code": {
+      "id": "CG0911",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG09",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-cg09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG09",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-cg09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.55",
+      "lon": "15.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1203",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ouesso",
+      "en": "Ouesso",
+      "slug": "ouesso-cg1203"
+    },
+    "code": {
+      "id": "CG1203",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG12",
+      "level": 1,
+      "name": {
+        "local": "Sangha",
+        "en": "Sangha",
+        "slug": "sangha-cg12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG12",
+        "level": 1,
+        "name": {
+          "local": "Sangha",
+          "en": "Sangha",
+          "slug": "sangha-cg12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.613",
+      "lon": "16.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0307",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Owando",
+      "en": "Owando",
+      "slug": "owando-cg0307"
+    },
+    "code": {
+      "id": "CG0307",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG03",
+      "level": 1,
+      "name": {
+        "local": "Cuvette",
+        "en": "Cuvette",
+        "slug": "cuvette-cg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG03",
+        "level": 1,
+        "name": {
+          "local": "Cuvette",
+          "en": "Cuvette",
+          "slug": "cuvette-cg03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.518",
+      "lon": "15.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0308",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Oyo",
+      "en": "Oyo",
+      "slug": "oyo-cg0308"
+    },
+    "code": {
+      "id": "CG0308",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG03",
+      "level": 1,
+      "name": {
+        "local": "Cuvette",
+        "en": "Cuvette",
+        "slug": "cuvette-cg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG03",
+        "level": 1,
+        "name": {
+          "local": "Cuvette",
+          "en": "Cuvette",
+          "slug": "cuvette-cg03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.041",
+      "lon": "15.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1204",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pikounda",
+      "en": "Pikounda",
+      "slug": "pikounda-cg1204"
+    },
+    "code": {
+      "id": "CG1204",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG12",
+      "level": 1,
+      "name": {
+        "local": "Sangha",
+        "en": "Sangha",
+        "slug": "sangha-cg12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG12",
+        "level": 1,
+        "name": {
+          "local": "Sangha",
+          "en": "Sangha",
+          "slug": "sangha-cg12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.569",
+      "lon": "16.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1001",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pointe-Noire",
+      "en": "Pointe-Noire",
+      "slug": "pointe-noire-cg1001"
+    },
+    "code": {
+      "id": "CG1001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG10",
+      "level": 1,
+      "name": {
+        "local": "Point-Noire",
+        "en": "Point-Noire",
+        "slug": "point-noire-cg10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG10",
+        "level": 1,
+        "name": {
+          "local": "Point-Noire",
+          "en": "Point-Noire",
+          "slug": "point-noire-cg10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.804",
+      "lon": "11.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1205",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sembe",
+      "en": "Sembe",
+      "slug": "sembe-cg1205"
+    },
+    "code": {
+      "id": "CG1205",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG12",
+      "level": 1,
+      "name": {
+        "local": "Sangha",
+        "en": "Sangha",
+        "slug": "sangha-cg12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG12",
+        "level": 1,
+        "name": {
+          "local": "Sangha",
+          "en": "Sangha",
+          "slug": "sangha-cg12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.69",
+      "lon": "14.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0604",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sibiti",
+      "en": "Sibiti",
+      "slug": "sibiti-cg0604"
+    },
+    "code": {
+      "id": "CG0604",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG06",
+      "level": 1,
+      "name": {
+        "local": "Lekoumou",
+        "en": "Lekoumou",
+        "slug": "lekoumou-cg06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG06",
+        "level": 1,
+        "name": {
+          "local": "Lekoumou",
+          "en": "Lekoumou",
+          "slug": "lekoumou-cg06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.655",
+      "lon": "13.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1206",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Souanke",
+      "en": "Souanke",
+      "slug": "souanke-cg1206"
+    },
+    "code": {
+      "id": "CG1206",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG12",
+      "level": 1,
+      "name": {
+        "local": "Sangha",
+        "en": "Sangha",
+        "slug": "sangha-cg12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG12",
+        "level": 1,
+        "name": {
+          "local": "Sangha",
+          "en": "Sangha",
+          "slug": "sangha-cg12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.715",
+      "lon": "13.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0506",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tchiamba-Nzassi",
+      "en": "Tchiamba-Nzassi",
+      "slug": "tchiamba-nzassi-cg0506"
+    },
+    "code": {
+      "id": "CG0506",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG05",
+      "level": 1,
+      "name": {
+        "local": "Kouilou",
+        "en": "Kouilou",
+        "slug": "kouilou-cg05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG05",
+        "level": 1,
+        "name": {
+          "local": "Kouilou",
+          "en": "Kouilou",
+          "slug": "kouilou-cg05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.852",
+      "lon": "12.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0309",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tchikapika",
+      "en": "Tchikapika",
+      "slug": "tchikapika-cg0309"
+    },
+    "code": {
+      "id": "CG0309",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG03",
+      "level": 1,
+      "name": {
+        "local": "Cuvette",
+        "en": "Cuvette",
+        "slug": "cuvette-cg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG03",
+        "level": 1,
+        "name": {
+          "local": "Cuvette",
+          "en": "Cuvette",
+          "slug": "cuvette-cg03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.168",
+      "lon": "16.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0109",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tsiaki",
+      "en": "Tsiaki",
+      "slug": "tsiaki-cg0109"
+    },
+    "code": {
+      "id": "CG0109",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG01",
+      "level": 1,
+      "name": {
+        "local": "Bouenza",
+        "en": "Bouenza",
+        "slug": "bouenza-cg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG01",
+        "level": 1,
+        "name": {
+          "local": "Bouenza",
+          "en": "Bouenza",
+          "slug": "bouenza-cg01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.721",
+      "lon": "13.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG1113",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Vindza",
+      "en": "Vindza",
+      "slug": "vindza-cg1113"
+    },
+    "code": {
+      "id": "CG1113",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG11",
+      "level": 1,
+      "name": {
+        "local": "Pool",
+        "en": "Pool",
+        "slug": "pool-cg11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG11",
+        "level": 1,
+        "name": {
+          "local": "Pool",
+          "en": "Pool",
+          "slug": "pool-cg11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.184",
+      "lon": "14.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0110",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yamba",
+      "en": "Yamba",
+      "slug": "yamba-cg0110"
+    },
+    "code": {
+      "id": "CG0110",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG01",
+      "level": 1,
+      "name": {
+        "local": "Bouenza",
+        "en": "Bouenza",
+        "slug": "bouenza-cg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG01",
+        "level": 1,
+        "name": {
+          "local": "Bouenza",
+          "en": "Bouenza",
+          "slug": "bouenza-cg01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.153",
+      "lon": "14.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0814",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yaya",
+      "en": "Yaya",
+      "slug": "yaya-cg0814"
+    },
+    "code": {
+      "id": "CG0814",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG08",
+      "level": 1,
+      "name": {
+        "local": "Niari",
+        "en": "Niari",
+        "slug": "niari-cg08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG08",
+        "level": 1,
+        "name": {
+          "local": "Niari",
+          "en": "Niari",
+          "slug": "niari-cg08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.034",
+      "lon": "12.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0605",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zanaga",
+      "en": "Zanaga",
+      "slug": "zanaga-cg0605"
+    },
+    "code": {
+      "id": "CG0605",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG06",
+      "level": 1,
+      "name": {
+        "local": "Lekoumou",
+        "en": "Lekoumou",
+        "slug": "lekoumou-cg06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG06",
+        "level": 1,
+        "name": {
+          "local": "Lekoumou",
+          "en": "Lekoumou",
+          "slug": "lekoumou-cg06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.019",
+      "lon": "13.923"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

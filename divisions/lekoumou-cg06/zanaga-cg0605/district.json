@@ -1,0 +1,45 @@
+{
+  "id": "CG0605",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Zanaga",
+    "en": "Zanaga",
+    "slug": "zanaga-cg0605"
+  },
+  "code": {
+    "id": "CG0605",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG06",
+    "level": 1,
+    "name": {
+      "local": "Lekoumou",
+      "en": "Lekoumou",
+      "slug": "lekoumou-cg06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG06",
+      "level": 1,
+      "name": {
+        "local": "Lekoumou",
+        "en": "Lekoumou",
+        "slug": "lekoumou-cg06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.019",
+    "lon": "13.923"
+  },
+  "metadata": {},
+  "source": {}
+}

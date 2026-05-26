@@ -1,0 +1,45 @@
+{
+  "id": "CG0707",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Liranga",
+    "en": "Liranga",
+    "slug": "liranga-cg0707"
+  },
+  "code": {
+    "id": "CG0707",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG07",
+    "level": 1,
+    "name": {
+      "local": "Likouala",
+      "en": "Likouala",
+      "slug": "likouala-cg07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG07",
+      "level": 1,
+      "name": {
+        "local": "Likouala",
+        "en": "Likouala",
+        "slug": "likouala-cg07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.026",
+    "lon": "17.652"
+  },
+  "metadata": {},
+  "source": {}
+}

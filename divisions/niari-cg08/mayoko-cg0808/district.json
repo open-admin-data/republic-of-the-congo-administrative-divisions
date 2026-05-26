@@ -1,0 +1,45 @@
+{
+  "id": "CG0808",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mayoko",
+    "en": "Mayoko",
+    "slug": "mayoko-cg0808"
+  },
+  "code": {
+    "id": "CG0808",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG08",
+    "level": 1,
+    "name": {
+      "local": "Niari",
+      "en": "Niari",
+      "slug": "niari-cg08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG08",
+      "level": 1,
+      "name": {
+        "local": "Niari",
+        "en": "Niari",
+        "slug": "niari-cg08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.363",
+    "lon": "12.754"
+  },
+  "metadata": {},
+  "source": {}
+}

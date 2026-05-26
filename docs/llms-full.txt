@@ -1,0 +1,35 @@
+# Republic of the Congo Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Per-Department Data Files
+
+- [Bouenza](https://github.com/open-admin-data/republic-of-the-congo-administrative-divisions/blob/main/docs/llms-full/bouenza-cg01.txt) — 10 districts
+- [Brazzaville](https://github.com/open-admin-data/republic-of-the-congo-administrative-divisions/blob/main/docs/llms-full/brazzaville-cg02.txt) — 1 districts
+- [Cuvette](https://github.com/open-admin-data/republic-of-the-congo-administrative-divisions/blob/main/docs/llms-full/cuvette-cg03.txt) — 9 districts
+- [Cuvette-Ouest](https://github.com/open-admin-data/republic-of-the-congo-administrative-divisions/blob/main/docs/llms-full/cuvette-ouest-cg04.txt) — 6 districts
+- [Kouilou](https://github.com/open-admin-data/republic-of-the-congo-administrative-divisions/blob/main/docs/llms-full/kouilou-cg05.txt) — 6 districts
+- [Lekoumou](https://github.com/open-admin-data/republic-of-the-congo-administrative-divisions/blob/main/docs/llms-full/lekoumou-cg06.txt) — 5 districts
+- [Likouala](https://github.com/open-admin-data/republic-of-the-congo-administrative-divisions/blob/main/docs/llms-full/likouala-cg07.txt) — 7 districts
+- [Niari](https://github.com/open-admin-data/republic-of-the-congo-administrative-divisions/blob/main/docs/llms-full/niari-cg08.txt) — 14 districts
+- [Plateaux](https://github.com/open-admin-data/republic-of-the-congo-administrative-divisions/blob/main/docs/llms-full/plateaux-cg09.txt) — 11 districts
+- [Point-Noire](https://github.com/open-admin-data/republic-of-the-congo-administrative-divisions/blob/main/docs/llms-full/point-noire-cg10.txt) — 1 districts
+- [Pool](https://github.com/open-admin-data/republic-of-the-congo-administrative-divisions/blob/main/docs/llms-full/pool-cg11.txt) — 13 districts
+- [Sangha](https://github.com/open-admin-data/republic-of-the-congo-administrative-divisions/blob/main/docs/llms-full/sangha-cg12.txt) — 6 districts
+
+## Summary
+
+| Department | Districts | 
+|---|---|
+| Bouenza | 10 | 
+| Brazzaville | 1 | 
+| Cuvette | 9 | 
+| Cuvette-Ouest | 6 | 
+| Kouilou | 6 | 
+| Lekoumou | 5 | 
+| Likouala | 7 | 
+| Niari | 14 | 
+| Plateaux | 11 | 
+| Point-Noire | 1 | 
+| Pool | 13 | 
+| Sangha | 6 | 

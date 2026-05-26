@@ -1,0 +1,29 @@
+{
+  "id": "CG09",
+  "level": 1,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Plateaux",
+    "en": "Plateaux",
+    "slug": "plateaux-cg09"
+  },
+  "code": {
+    "id": "CG09",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.024",
+    "lon": "15.426"
+  },
+  "metadata": {},
+  "source": {}
+}

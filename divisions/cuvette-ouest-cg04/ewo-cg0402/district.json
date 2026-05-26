@@ -1,0 +1,45 @@
+{
+  "id": "CG0402",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ewo",
+    "en": "Ewo",
+    "slug": "ewo-cg0402"
+  },
+  "code": {
+    "id": "CG0402",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG04",
+    "level": 1,
+    "name": {
+      "local": "Cuvette-Ouest",
+      "en": "Cuvette-Ouest",
+      "slug": "cuvette-ouest-cg04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG04",
+      "level": 1,
+      "name": {
+        "local": "Cuvette-Ouest",
+        "en": "Cuvette-Ouest",
+        "slug": "cuvette-ouest-cg04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.979",
+    "lon": "14.747"
+  },
+  "metadata": {},
+  "source": {}
+}

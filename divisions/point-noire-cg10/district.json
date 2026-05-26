@@ -1,0 +1,47 @@
+[
+  {
+    "id": "CG1001",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pointe-Noire",
+      "en": "Pointe-Noire",
+      "slug": "pointe-noire-cg1001"
+    },
+    "code": {
+      "id": "CG1001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG10",
+      "level": 1,
+      "name": {
+        "local": "Point-Noire",
+        "en": "Point-Noire",
+        "slug": "point-noire-cg10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG10",
+        "level": 1,
+        "name": {
+          "local": "Point-Noire",
+          "en": "Point-Noire",
+          "slug": "point-noire-cg10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.804",
+      "lon": "11.897"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

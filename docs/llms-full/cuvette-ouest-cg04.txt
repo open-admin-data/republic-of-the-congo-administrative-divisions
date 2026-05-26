@@ -1,0 +1,39 @@
+# Cuvette-Ouest — Republic of the Congo Administrative Divisions
+
+> 6 districts
+> Code: CG04
+> Coordinates: -0.326, 14.638
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Districts
+
+### Etoumbi
+
+Code: CG0401, Coordinates: -0.259, 14.752
+
+
+### Ewo
+
+Code: CG0402, Coordinates: -0.979, 14.747
+
+
+### Kelle
+
+Code: CG0403, Coordinates: -0.03, 14.281
+
+
+### Mbama
+
+Code: CG0404, Coordinates: -0.492, 14.925
+
+
+### Mbomo
+
+Code: CG0405, Coordinates: 0.722, 14.708
+
+
+### Okoyo
+
+Code: CG0406, Coordinates: -1.549, 14.756
+
+

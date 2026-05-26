@@ -1,0 +1,29 @@
+{
+  "id": "CG03",
+  "level": 1,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Cuvette",
+    "en": "Cuvette",
+    "slug": "cuvette-cg03"
+  },
+  "code": {
+    "id": "CG03",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.543",
+    "lon": "16.295"
+  },
+  "metadata": {},
+  "source": {}
+}

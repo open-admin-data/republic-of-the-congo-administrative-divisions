@@ -1,0 +1,45 @@
+{
+  "id": "CG0308",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Oyo",
+    "en": "Oyo",
+    "slug": "oyo-cg0308"
+  },
+  "code": {
+    "id": "CG0308",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG03",
+    "level": 1,
+    "name": {
+      "local": "Cuvette",
+      "en": "Cuvette",
+      "slug": "cuvette-cg03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG03",
+      "level": 1,
+      "name": {
+        "local": "Cuvette",
+        "en": "Cuvette",
+        "slug": "cuvette-cg03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.041",
+    "lon": "15.97"
+  },
+  "metadata": {},
+  "source": {}
+}

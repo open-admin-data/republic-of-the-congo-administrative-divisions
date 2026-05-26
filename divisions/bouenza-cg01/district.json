@@ -1,0 +1,452 @@
+[
+  {
+    "id": "CG0101",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Boko-Songho",
+      "en": "Boko-Songho",
+      "slug": "boko-songho-cg0101"
+    },
+    "code": {
+      "id": "CG0101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG01",
+      "level": 1,
+      "name": {
+        "local": "Bouenza",
+        "en": "Bouenza",
+        "slug": "bouenza-cg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG01",
+        "level": 1,
+        "name": {
+          "local": "Bouenza",
+          "en": "Bouenza",
+          "slug": "bouenza-cg01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.546",
+      "lon": "13.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0102",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kingoue",
+      "en": "Kingoue",
+      "slug": "kingoue-cg0102"
+    },
+    "code": {
+      "id": "CG0102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG01",
+      "level": 1,
+      "name": {
+        "local": "Bouenza",
+        "en": "Bouenza",
+        "slug": "bouenza-cg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG01",
+        "level": 1,
+        "name": {
+          "local": "Bouenza",
+          "en": "Bouenza",
+          "slug": "bouenza-cg01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.75",
+      "lon": "14.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0103",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Loudima",
+      "en": "Loudima",
+      "slug": "loudima-cg0103"
+    },
+    "code": {
+      "id": "CG0103",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG01",
+      "level": 1,
+      "name": {
+        "local": "Bouenza",
+        "en": "Bouenza",
+        "slug": "bouenza-cg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG01",
+        "level": 1,
+        "name": {
+          "local": "Bouenza",
+          "en": "Bouenza",
+          "slug": "bouenza-cg01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.984",
+      "lon": "13.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0104",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mabombo",
+      "en": "Mabombo",
+      "slug": "mabombo-cg0104"
+    },
+    "code": {
+      "id": "CG0104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG01",
+      "level": 1,
+      "name": {
+        "local": "Bouenza",
+        "en": "Bouenza",
+        "slug": "bouenza-cg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG01",
+        "level": 1,
+        "name": {
+          "local": "Bouenza",
+          "en": "Bouenza",
+          "slug": "bouenza-cg01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.023",
+      "lon": "13.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0105",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Madingou",
+      "en": "Madingou",
+      "slug": "madingou-cg0105"
+    },
+    "code": {
+      "id": "CG0105",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG01",
+      "level": 1,
+      "name": {
+        "local": "Bouenza",
+        "en": "Bouenza",
+        "slug": "bouenza-cg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG01",
+        "level": 1,
+        "name": {
+          "local": "Bouenza",
+          "en": "Bouenza",
+          "slug": "bouenza-cg01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.266",
+      "lon": "13.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0106",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mfouati",
+      "en": "Mfouati",
+      "slug": "mfouati-cg0106"
+    },
+    "code": {
+      "id": "CG0106",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG01",
+      "level": 1,
+      "name": {
+        "local": "Bouenza",
+        "en": "Bouenza",
+        "slug": "bouenza-cg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG01",
+        "level": 1,
+        "name": {
+          "local": "Bouenza",
+          "en": "Bouenza",
+          "slug": "bouenza-cg01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.383",
+      "lon": "13.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0107",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mouyondzi",
+      "en": "Mouyondzi",
+      "slug": "mouyondzi-cg0107"
+    },
+    "code": {
+      "id": "CG0107",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG01",
+      "level": 1,
+      "name": {
+        "local": "Bouenza",
+        "en": "Bouenza",
+        "slug": "bouenza-cg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG01",
+        "level": 1,
+        "name": {
+          "local": "Bouenza",
+          "en": "Bouenza",
+          "slug": "bouenza-cg01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.969",
+      "lon": "13.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0108",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nkayi",
+      "en": "Nkayi",
+      "slug": "nkayi-cg0108"
+    },
+    "code": {
+      "id": "CG0108",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG01",
+      "level": 1,
+      "name": {
+        "local": "Bouenza",
+        "en": "Bouenza",
+        "slug": "bouenza-cg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG01",
+        "level": 1,
+        "name": {
+          "local": "Bouenza",
+          "en": "Bouenza",
+          "slug": "bouenza-cg01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.248",
+      "lon": "13.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0109",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tsiaki",
+      "en": "Tsiaki",
+      "slug": "tsiaki-cg0109"
+    },
+    "code": {
+      "id": "CG0109",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG01",
+      "level": 1,
+      "name": {
+        "local": "Bouenza",
+        "en": "Bouenza",
+        "slug": "bouenza-cg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG01",
+        "level": 1,
+        "name": {
+          "local": "Bouenza",
+          "en": "Bouenza",
+          "slug": "bouenza-cg01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.721",
+      "lon": "13.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0110",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yamba",
+      "en": "Yamba",
+      "slug": "yamba-cg0110"
+    },
+    "code": {
+      "id": "CG0110",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG01",
+      "level": 1,
+      "name": {
+        "local": "Bouenza",
+        "en": "Bouenza",
+        "slug": "bouenza-cg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG01",
+        "level": 1,
+        "name": {
+          "local": "Bouenza",
+          "en": "Bouenza",
+          "slug": "bouenza-cg01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.153",
+      "lon": "14.003"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

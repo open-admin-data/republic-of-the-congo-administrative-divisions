@@ -1,0 +1,29 @@
+{
+  "id": "CG06",
+  "level": 1,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Lekoumou",
+    "en": "Lekoumou",
+    "slug": "lekoumou-cg06"
+  },
+  "code": {
+    "id": "CG06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.091",
+    "lon": "13.636"
+  },
+  "metadata": {},
+  "source": {}
+}

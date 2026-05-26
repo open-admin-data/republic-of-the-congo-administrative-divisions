@@ -1,0 +1,45 @@
+{
+  "id": "CG0501",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Hinda",
+    "en": "Hinda",
+    "slug": "hinda-cg0501"
+  },
+  "code": {
+    "id": "CG0501",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG05",
+    "level": 1,
+    "name": {
+      "local": "Kouilou",
+      "en": "Kouilou",
+      "slug": "kouilou-cg05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG05",
+      "level": 1,
+      "name": {
+        "local": "Kouilou",
+        "en": "Kouilou",
+        "slug": "kouilou-cg05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.667",
+    "lon": "11.982"
+  },
+  "metadata": {},
+  "source": {}
+}

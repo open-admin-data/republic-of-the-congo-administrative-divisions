@@ -1,0 +1,29 @@
+{
+  "id": "CG10",
+  "level": 1,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Point-Noire",
+    "en": "Point-Noire",
+    "slug": "point-noire-cg10"
+  },
+  "code": {
+    "id": "CG10",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.804",
+    "lon": "11.897"
+  },
+  "metadata": {},
+  "source": {}
+}

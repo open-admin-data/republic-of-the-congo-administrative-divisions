@@ -1,0 +1,45 @@
+{
+  "id": "CG1206",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Souanke",
+    "en": "Souanke",
+    "slug": "souanke-cg1206"
+  },
+  "code": {
+    "id": "CG1206",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG12",
+    "level": 1,
+    "name": {
+      "local": "Sangha",
+      "en": "Sangha",
+      "slug": "sangha-cg12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG12",
+      "level": 1,
+      "name": {
+        "local": "Sangha",
+        "en": "Sangha",
+        "slug": "sangha-cg12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.715",
+    "lon": "13.761"
+  },
+  "metadata": {},
+  "source": {}
+}

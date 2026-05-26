@@ -1,0 +1,54 @@
+# Cuvette — Republic of the Congo Administrative Divisions
+
+> 9 districts
+> Code: CG03
+> Coordinates: -0.543, 16.295
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Districts
+
+### Boundji
+
+Code: CG0301, Coordinates: -0.879, 15.291
+
+
+### Loukolela
+
+Code: CG0302, Coordinates: -0.376, 17.193
+
+
+### Makoua
+
+Code: CG0303, Coordinates: 0.113, 15.579
+
+
+### Mossaka
+
+Code: CG0304, Coordinates: -0.706, 16.662
+
+
+### Ngoko
+
+Code: CG0305, Coordinates: -0.63, 15.267
+
+
+### Ntokou
+
+Code: CG0306, Coordinates: 0.089, 16.111
+
+
+### Owando
+
+Code: CG0307, Coordinates: -0.518, 15.886
+
+
+### Oyo
+
+Code: CG0308, Coordinates: -1.041, 15.97
+
+
+### Tchikapika
+
+Code: CG0309, Coordinates: -1.168, 16.316
+
+

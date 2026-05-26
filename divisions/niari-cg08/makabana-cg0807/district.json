@@ -1,0 +1,45 @@
+{
+  "id": "CG0807",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Makabana",
+    "en": "Makabana",
+    "slug": "makabana-cg0807"
+  },
+  "code": {
+    "id": "CG0807",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG08",
+    "level": 1,
+    "name": {
+      "local": "Niari",
+      "en": "Niari",
+      "slug": "niari-cg08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG08",
+      "level": 1,
+      "name": {
+        "local": "Niari",
+        "en": "Niari",
+        "slug": "niari-cg08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.572",
+    "lon": "12.572"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "CG0101",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Boko-Songho",
+    "en": "Boko-Songho",
+    "slug": "boko-songho-cg0101"
+  },
+  "code": {
+    "id": "CG0101",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG01",
+    "level": 1,
+    "name": {
+      "local": "Bouenza",
+      "en": "Bouenza",
+      "slug": "bouenza-cg01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG01",
+      "level": 1,
+      "name": {
+        "local": "Bouenza",
+        "en": "Bouenza",
+        "slug": "bouenza-cg01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.546",
+    "lon": "13.553"
+  },
+  "metadata": {},
+  "source": {}
+}

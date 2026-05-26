@@ -1,0 +1,45 @@
+{
+  "id": "CG1101",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Boko",
+    "en": "Boko",
+    "slug": "boko-cg1101"
+  },
+  "code": {
+    "id": "CG1101",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG11",
+    "level": 1,
+    "name": {
+      "local": "Pool",
+      "en": "Pool",
+      "slug": "pool-cg11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG11",
+      "level": 1,
+      "name": {
+        "local": "Pool",
+        "en": "Pool",
+        "slug": "pool-cg11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.712",
+    "lon": "14.727"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "CG1107",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Louingui",
+    "en": "Louingui",
+    "slug": "louingui-cg1107"
+  },
+  "code": {
+    "id": "CG1107",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG11",
+    "level": 1,
+    "name": {
+      "local": "Pool",
+      "en": "Pool",
+      "slug": "pool-cg11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG11",
+      "level": 1,
+      "name": {
+        "local": "Pool",
+        "en": "Pool",
+        "slug": "pool-cg11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.505",
+    "lon": "14.672"
+  },
+  "metadata": {},
+  "source": {}
+}

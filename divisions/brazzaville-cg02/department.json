@@ -1,0 +1,29 @@
+{
+  "id": "CG02",
+  "level": 1,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Brazzaville",
+    "en": "Brazzaville",
+    "slug": "brazzaville-cg02"
+  },
+  "code": {
+    "id": "CG02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.235",
+    "lon": "15.267"
+  },
+  "metadata": {},
+  "source": {}
+}

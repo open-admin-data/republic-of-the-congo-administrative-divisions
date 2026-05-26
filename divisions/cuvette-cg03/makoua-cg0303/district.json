@@ -1,0 +1,45 @@
+{
+  "id": "CG0303",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Makoua",
+    "en": "Makoua",
+    "slug": "makoua-cg0303"
+  },
+  "code": {
+    "id": "CG0303",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG03",
+    "level": 1,
+    "name": {
+      "local": "Cuvette",
+      "en": "Cuvette",
+      "slug": "cuvette-cg03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG03",
+      "level": 1,
+      "name": {
+        "local": "Cuvette",
+        "en": "Cuvette",
+        "slug": "cuvette-cg03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.113",
+    "lon": "15.579"
+  },
+  "metadata": {},
+  "source": {}
+}

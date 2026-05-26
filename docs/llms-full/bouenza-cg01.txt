@@ -1,0 +1,59 @@
+# Bouenza — Republic of the Congo Administrative Divisions
+
+> 10 districts
+> Code: CG01
+> Coordinates: -4.131, 13.503
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Districts
+
+### Boko-Songho
+
+Code: CG0101, Coordinates: -4.546, 13.553
+
+
+### Kingoue
+
+Code: CG0102, Coordinates: -3.75, 14.138
+
+
+### Loudima
+
+Code: CG0103, Coordinates: -3.984, 13.055
+
+
+### Mabombo
+
+Code: CG0104, Coordinates: -4.023, 13.672
+
+
+### Madingou
+
+Code: CG0105, Coordinates: -4.266, 13.653
+
+
+### Mfouati
+
+Code: CG0106, Coordinates: -4.383, 13.823
+
+
+### Mouyondzi
+
+Code: CG0107, Coordinates: -3.969, 13.963
+
+
+### Nkayi
+
+Code: CG0108, Coordinates: -4.248, 13.284
+
+
+### Tsiaki
+
+Code: CG0109, Coordinates: -3.721, 13.885
+
+
+### Yamba
+
+Code: CG0110, Coordinates: -4.153, 14.003
+
+

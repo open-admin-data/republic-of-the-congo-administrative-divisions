@@ -1,0 +1,45 @@
+{
+  "id": "CG0103",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Loudima",
+    "en": "Loudima",
+    "slug": "loudima-cg0103"
+  },
+  "code": {
+    "id": "CG0103",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG01",
+    "level": 1,
+    "name": {
+      "local": "Bouenza",
+      "en": "Bouenza",
+      "slug": "bouenza-cg01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG01",
+      "level": 1,
+      "name": {
+        "local": "Bouenza",
+        "en": "Bouenza",
+        "slug": "bouenza-cg01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.984",
+    "lon": "13.055"
+  },
+  "metadata": {},
+  "source": {}
+}

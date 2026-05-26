@@ -1,0 +1,45 @@
+{
+  "id": "CG0903",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Djambala",
+    "en": "Djambala",
+    "slug": "djambala-cg0903"
+  },
+  "code": {
+    "id": "CG0903",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG09",
+    "level": 1,
+    "name": {
+      "local": "Plateaux",
+      "en": "Plateaux",
+      "slug": "plateaux-cg09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG09",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-cg09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.663",
+    "lon": "14.783"
+  },
+  "metadata": {},
+  "source": {}
+}

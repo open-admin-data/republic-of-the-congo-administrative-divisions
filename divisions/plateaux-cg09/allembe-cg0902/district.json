@@ -1,0 +1,45 @@
+{
+  "id": "CG0902",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Allembe",
+    "en": "Allembe",
+    "slug": "allembe-cg0902"
+  },
+  "code": {
+    "id": "CG0902",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG09",
+    "level": 1,
+    "name": {
+      "local": "Plateaux",
+      "en": "Plateaux",
+      "slug": "plateaux-cg09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG09",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-cg09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.374",
+    "lon": "15.229"
+  },
+  "metadata": {},
+  "source": {}
+}

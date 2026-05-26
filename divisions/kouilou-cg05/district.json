@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CG0501",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hinda",
+      "en": "Hinda",
+      "slug": "hinda-cg0501"
+    },
+    "code": {
+      "id": "CG0501",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG05",
+      "level": 1,
+      "name": {
+        "local": "Kouilou",
+        "en": "Kouilou",
+        "slug": "kouilou-cg05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG05",
+        "level": 1,
+        "name": {
+          "local": "Kouilou",
+          "en": "Kouilou",
+          "slug": "kouilou-cg05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.667",
+      "lon": "11.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0502",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kakameoka",
+      "en": "Kakameoka",
+      "slug": "kakameoka-cg0502"
+    },
+    "code": {
+      "id": "CG0502",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG05",
+      "level": 1,
+      "name": {
+        "local": "Kouilou",
+        "en": "Kouilou",
+        "slug": "kouilou-cg05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG05",
+        "level": 1,
+        "name": {
+          "local": "Kouilou",
+          "en": "Kouilou",
+          "slug": "kouilou-cg05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.16",
+      "lon": "12.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0503",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Madingo-Kayes",
+      "en": "Madingo-Kayes",
+      "slug": "madingo-kayes-cg0503"
+    },
+    "code": {
+      "id": "CG0503",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG05",
+      "level": 1,
+      "name": {
+        "local": "Kouilou",
+        "en": "Kouilou",
+        "slug": "kouilou-cg05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG05",
+        "level": 1,
+        "name": {
+          "local": "Kouilou",
+          "en": "Kouilou",
+          "slug": "kouilou-cg05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.004",
+      "lon": "11.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0504",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mvouti",
+      "en": "Mvouti",
+      "slug": "mvouti-cg0504"
+    },
+    "code": {
+      "id": "CG0504",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG05",
+      "level": 1,
+      "name": {
+        "local": "Kouilou",
+        "en": "Kouilou",
+        "slug": "kouilou-cg05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG05",
+        "level": 1,
+        "name": {
+          "local": "Kouilou",
+          "en": "Kouilou",
+          "slug": "kouilou-cg05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.392",
+      "lon": "12.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0505",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nzambi",
+      "en": "Nzambi",
+      "slug": "nzambi-cg0505"
+    },
+    "code": {
+      "id": "CG0505",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG05",
+      "level": 1,
+      "name": {
+        "local": "Kouilou",
+        "en": "Kouilou",
+        "slug": "kouilou-cg05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG05",
+        "level": 1,
+        "name": {
+          "local": "Kouilou",
+          "en": "Kouilou",
+          "slug": "kouilou-cg05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.89",
+      "lon": "11.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0506",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tchiamba-Nzassi",
+      "en": "Tchiamba-Nzassi",
+      "slug": "tchiamba-nzassi-cg0506"
+    },
+    "code": {
+      "id": "CG0506",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG05",
+      "level": 1,
+      "name": {
+        "local": "Kouilou",
+        "en": "Kouilou",
+        "slug": "kouilou-cg05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG05",
+        "level": 1,
+        "name": {
+          "local": "Kouilou",
+          "en": "Kouilou",
+          "slug": "kouilou-cg05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.852",
+      "lon": "12.1"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

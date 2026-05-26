@@ -1,0 +1,45 @@
+{
+  "id": "CG0705",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Epena",
+    "en": "Epena",
+    "slug": "epena-cg0705"
+  },
+  "code": {
+    "id": "CG0705",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG07",
+    "level": 1,
+    "name": {
+      "local": "Likouala",
+      "en": "Likouala",
+      "slug": "likouala-cg07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG07",
+      "level": 1,
+      "name": {
+        "local": "Likouala",
+        "en": "Likouala",
+        "slug": "likouala-cg07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.739",
+    "lon": "17.291"
+  },
+  "metadata": {},
+  "source": {}
+}

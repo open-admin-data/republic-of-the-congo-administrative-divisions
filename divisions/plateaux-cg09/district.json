@@ -1,0 +1,497 @@
+[
+  {
+    "id": "CG0901",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Abala",
+      "en": "Abala",
+      "slug": "abala-cg0901"
+    },
+    "code": {
+      "id": "CG0901",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG09",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-cg09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG09",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-cg09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.498",
+      "lon": "15.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0902",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Allembe",
+      "en": "Allembe",
+      "slug": "allembe-cg0902"
+    },
+    "code": {
+      "id": "CG0902",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG09",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-cg09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG09",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-cg09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.374",
+      "lon": "15.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0903",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Djambala",
+      "en": "Djambala",
+      "slug": "djambala-cg0903"
+    },
+    "code": {
+      "id": "CG0903",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG09",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-cg09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG09",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-cg09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.663",
+      "lon": "14.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0904",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gamboma",
+      "en": "Gamboma",
+      "slug": "gamboma-cg0904"
+    },
+    "code": {
+      "id": "CG0904",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG09",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-cg09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG09",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-cg09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.906",
+      "lon": "15.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0905",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lekana",
+      "en": "Lekana",
+      "slug": "lekana-cg0905"
+    },
+    "code": {
+      "id": "CG0905",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG09",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-cg09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG09",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-cg09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.214",
+      "lon": "14.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0906",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Makotimpoko",
+      "en": "Makotimpoko",
+      "slug": "makotimpoko-cg0906"
+    },
+    "code": {
+      "id": "CG0906",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG09",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-cg09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG09",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-cg09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.749",
+      "lon": "16.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0907",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mbon",
+      "en": "Mbon",
+      "slug": "mbon-cg0907"
+    },
+    "code": {
+      "id": "CG0907",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG09",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-cg09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG09",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-cg09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.985",
+      "lon": "15.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0908",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mpouya",
+      "en": "Mpouya",
+      "slug": "mpouya-cg0908"
+    },
+    "code": {
+      "id": "CG0908",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG09",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-cg09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG09",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-cg09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.618",
+      "lon": "16.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0909",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ngo",
+      "en": "Ngo",
+      "slug": "ngo-cg0909"
+    },
+    "code": {
+      "id": "CG0909",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG09",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-cg09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG09",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-cg09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.544",
+      "lon": "15.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0910",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ollombo",
+      "en": "Ollombo",
+      "slug": "ollombo-cg0910"
+    },
+    "code": {
+      "id": "CG0910",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG09",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-cg09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG09",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-cg09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.27",
+      "lon": "15.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0911",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ongogni",
+      "en": "Ongogni",
+      "slug": "ongogni-cg0911"
+    },
+    "code": {
+      "id": "CG0911",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG09",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-cg09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG09",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-cg09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.55",
+      "lon": "15.969"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

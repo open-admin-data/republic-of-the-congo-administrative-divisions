@@ -1,0 +1,45 @@
+{
+  "id": "CG0108",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nkayi",
+    "en": "Nkayi",
+    "slug": "nkayi-cg0108"
+  },
+  "code": {
+    "id": "CG0108",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG01",
+    "level": 1,
+    "name": {
+      "local": "Bouenza",
+      "en": "Bouenza",
+      "slug": "bouenza-cg01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG01",
+      "level": 1,
+      "name": {
+        "local": "Bouenza",
+        "en": "Bouenza",
+        "slug": "bouenza-cg01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.248",
+    "lon": "13.284"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "CG0110",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Yamba",
+    "en": "Yamba",
+    "slug": "yamba-cg0110"
+  },
+  "code": {
+    "id": "CG0110",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG01",
+    "level": 1,
+    "name": {
+      "local": "Bouenza",
+      "en": "Bouenza",
+      "slug": "bouenza-cg01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG01",
+      "level": 1,
+      "name": {
+        "local": "Bouenza",
+        "en": "Bouenza",
+        "slug": "bouenza-cg01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.153",
+    "lon": "14.003"
+  },
+  "metadata": {},
+  "source": {}
+}

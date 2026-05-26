@@ -1,0 +1,45 @@
+{
+  "id": "CG0104",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mabombo",
+    "en": "Mabombo",
+    "slug": "mabombo-cg0104"
+  },
+  "code": {
+    "id": "CG0104",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG01",
+    "level": 1,
+    "name": {
+      "local": "Bouenza",
+      "en": "Bouenza",
+      "slug": "bouenza-cg01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG01",
+      "level": 1,
+      "name": {
+        "local": "Bouenza",
+        "en": "Bouenza",
+        "slug": "bouenza-cg01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.023",
+    "lon": "13.672"
+  },
+  "metadata": {},
+  "source": {}
+}

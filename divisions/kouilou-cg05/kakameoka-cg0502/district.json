@@ -1,0 +1,45 @@
+{
+  "id": "CG0502",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kakameoka",
+    "en": "Kakameoka",
+    "slug": "kakameoka-cg0502"
+  },
+  "code": {
+    "id": "CG0502",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG05",
+    "level": 1,
+    "name": {
+      "local": "Kouilou",
+      "en": "Kouilou",
+      "slug": "kouilou-cg05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG05",
+      "level": 1,
+      "name": {
+        "local": "Kouilou",
+        "en": "Kouilou",
+        "slug": "kouilou-cg05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.16",
+    "lon": "12.064"
+  },
+  "metadata": {},
+  "source": {}
+}

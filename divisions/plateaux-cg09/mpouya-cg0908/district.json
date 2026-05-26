@@ -1,0 +1,45 @@
+{
+  "id": "CG0908",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mpouya",
+    "en": "Mpouya",
+    "slug": "mpouya-cg0908"
+  },
+  "code": {
+    "id": "CG0908",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG09",
+    "level": 1,
+    "name": {
+      "local": "Plateaux",
+      "en": "Plateaux",
+      "slug": "plateaux-cg09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG09",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-cg09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.618",
+    "lon": "16.019"
+  },
+  "metadata": {},
+  "source": {}
+}

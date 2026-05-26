@@ -1,0 +1,45 @@
+{
+  "id": "CG1110",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mbandza-Ndounga",
+    "en": "Mbandza-Ndounga",
+    "slug": "mbandza-ndounga-cg1110"
+  },
+  "code": {
+    "id": "CG1110",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG11",
+    "level": 1,
+    "name": {
+      "local": "Pool",
+      "en": "Pool",
+      "slug": "pool-cg11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG11",
+      "level": 1,
+      "name": {
+        "local": "Pool",
+        "en": "Pool",
+        "slug": "pool-cg11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.508",
+    "lon": "14.952"
+  },
+  "metadata": {},
+  "source": {}
+}

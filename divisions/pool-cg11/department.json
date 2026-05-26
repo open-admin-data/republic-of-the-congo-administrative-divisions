@@ -1,0 +1,29 @@
+{
+  "id": "CG11",
+  "level": 1,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Pool",
+    "en": "Pool",
+    "slug": "pool-cg11"
+  },
+  "code": {
+    "id": "CG11",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.819",
+    "lon": "15.12"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,317 @@
+[
+  {
+    "id": "CG0701",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Betou",
+      "en": "Betou",
+      "slug": "betou-cg0701"
+    },
+    "code": {
+      "id": "CG0701",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG07",
+      "level": 1,
+      "name": {
+        "local": "Likouala",
+        "en": "Likouala",
+        "slug": "likouala-cg07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG07",
+        "level": 1,
+        "name": {
+          "local": "Likouala",
+          "en": "Likouala",
+          "slug": "likouala-cg07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.031",
+      "lon": "18.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0702",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bouanila",
+      "en": "Bouanila",
+      "slug": "bouanila-cg0702"
+    },
+    "code": {
+      "id": "CG0702",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG07",
+      "level": 1,
+      "name": {
+        "local": "Likouala",
+        "en": "Likouala",
+        "slug": "likouala-cg07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG07",
+        "level": 1,
+        "name": {
+          "local": "Likouala",
+          "en": "Likouala",
+          "slug": "likouala-cg07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.651",
+      "lon": "17.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0703",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dongou",
+      "en": "Dongou",
+      "slug": "dongou-cg0703"
+    },
+    "code": {
+      "id": "CG0703",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG07",
+      "level": 1,
+      "name": {
+        "local": "Likouala",
+        "en": "Likouala",
+        "slug": "likouala-cg07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG07",
+        "level": 1,
+        "name": {
+          "local": "Likouala",
+          "en": "Likouala",
+          "slug": "likouala-cg07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.401",
+      "lon": "17.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0704",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Enyelle",
+      "en": "Enyelle",
+      "slug": "enyelle-cg0704"
+    },
+    "code": {
+      "id": "CG0704",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG07",
+      "level": 1,
+      "name": {
+        "local": "Likouala",
+        "en": "Likouala",
+        "slug": "likouala-cg07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG07",
+        "level": 1,
+        "name": {
+          "local": "Likouala",
+          "en": "Likouala",
+          "slug": "likouala-cg07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.948",
+      "lon": "17.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0705",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Epena",
+      "en": "Epena",
+      "slug": "epena-cg0705"
+    },
+    "code": {
+      "id": "CG0705",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG07",
+      "level": 1,
+      "name": {
+        "local": "Likouala",
+        "en": "Likouala",
+        "slug": "likouala-cg07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG07",
+        "level": 1,
+        "name": {
+          "local": "Likouala",
+          "en": "Likouala",
+          "slug": "likouala-cg07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.739",
+      "lon": "17.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0706",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Impfondo",
+      "en": "Impfondo",
+      "slug": "impfondo-cg0706"
+    },
+    "code": {
+      "id": "CG0706",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG07",
+      "level": 1,
+      "name": {
+        "local": "Likouala",
+        "en": "Likouala",
+        "slug": "likouala-cg07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG07",
+        "level": 1,
+        "name": {
+          "local": "Likouala",
+          "en": "Likouala",
+          "slug": "likouala-cg07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.339",
+      "lon": "17.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0707",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Liranga",
+      "en": "Liranga",
+      "slug": "liranga-cg0707"
+    },
+    "code": {
+      "id": "CG0707",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG07",
+      "level": 1,
+      "name": {
+        "local": "Likouala",
+        "en": "Likouala",
+        "slug": "likouala-cg07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG07",
+        "level": 1,
+        "name": {
+          "local": "Likouala",
+          "en": "Likouala",
+          "slug": "likouala-cg07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.026",
+      "lon": "17.652"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

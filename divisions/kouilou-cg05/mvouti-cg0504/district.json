@@ -1,0 +1,45 @@
+{
+  "id": "CG0504",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mvouti",
+    "en": "Mvouti",
+    "slug": "mvouti-cg0504"
+  },
+  "code": {
+    "id": "CG0504",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG05",
+    "level": 1,
+    "name": {
+      "local": "Kouilou",
+      "en": "Kouilou",
+      "slug": "kouilou-cg05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG05",
+      "level": 1,
+      "name": {
+        "local": "Kouilou",
+        "en": "Kouilou",
+        "slug": "kouilou-cg05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.392",
+    "lon": "12.475"
+  },
+  "metadata": {},
+  "source": {}
+}

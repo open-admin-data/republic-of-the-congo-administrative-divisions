@@ -1,0 +1,407 @@
+[
+  {
+    "id": "CG0301",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Boundji",
+      "en": "Boundji",
+      "slug": "boundji-cg0301"
+    },
+    "code": {
+      "id": "CG0301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG03",
+      "level": 1,
+      "name": {
+        "local": "Cuvette",
+        "en": "Cuvette",
+        "slug": "cuvette-cg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG03",
+        "level": 1,
+        "name": {
+          "local": "Cuvette",
+          "en": "Cuvette",
+          "slug": "cuvette-cg03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.879",
+      "lon": "15.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0302",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Loukolela",
+      "en": "Loukolela",
+      "slug": "loukolela-cg0302"
+    },
+    "code": {
+      "id": "CG0302",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG03",
+      "level": 1,
+      "name": {
+        "local": "Cuvette",
+        "en": "Cuvette",
+        "slug": "cuvette-cg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG03",
+        "level": 1,
+        "name": {
+          "local": "Cuvette",
+          "en": "Cuvette",
+          "slug": "cuvette-cg03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.376",
+      "lon": "17.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0303",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Makoua",
+      "en": "Makoua",
+      "slug": "makoua-cg0303"
+    },
+    "code": {
+      "id": "CG0303",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG03",
+      "level": 1,
+      "name": {
+        "local": "Cuvette",
+        "en": "Cuvette",
+        "slug": "cuvette-cg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG03",
+        "level": 1,
+        "name": {
+          "local": "Cuvette",
+          "en": "Cuvette",
+          "slug": "cuvette-cg03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.113",
+      "lon": "15.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0304",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mossaka",
+      "en": "Mossaka",
+      "slug": "mossaka-cg0304"
+    },
+    "code": {
+      "id": "CG0304",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG03",
+      "level": 1,
+      "name": {
+        "local": "Cuvette",
+        "en": "Cuvette",
+        "slug": "cuvette-cg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG03",
+        "level": 1,
+        "name": {
+          "local": "Cuvette",
+          "en": "Cuvette",
+          "slug": "cuvette-cg03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.706",
+      "lon": "16.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0305",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ngoko",
+      "en": "Ngoko",
+      "slug": "ngoko-cg0305"
+    },
+    "code": {
+      "id": "CG0305",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG03",
+      "level": 1,
+      "name": {
+        "local": "Cuvette",
+        "en": "Cuvette",
+        "slug": "cuvette-cg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG03",
+        "level": 1,
+        "name": {
+          "local": "Cuvette",
+          "en": "Cuvette",
+          "slug": "cuvette-cg03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.63",
+      "lon": "15.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0306",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ntokou",
+      "en": "Ntokou",
+      "slug": "ntokou-cg0306"
+    },
+    "code": {
+      "id": "CG0306",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG03",
+      "level": 1,
+      "name": {
+        "local": "Cuvette",
+        "en": "Cuvette",
+        "slug": "cuvette-cg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG03",
+        "level": 1,
+        "name": {
+          "local": "Cuvette",
+          "en": "Cuvette",
+          "slug": "cuvette-cg03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.089",
+      "lon": "16.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0307",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Owando",
+      "en": "Owando",
+      "slug": "owando-cg0307"
+    },
+    "code": {
+      "id": "CG0307",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG03",
+      "level": 1,
+      "name": {
+        "local": "Cuvette",
+        "en": "Cuvette",
+        "slug": "cuvette-cg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG03",
+        "level": 1,
+        "name": {
+          "local": "Cuvette",
+          "en": "Cuvette",
+          "slug": "cuvette-cg03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.518",
+      "lon": "15.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0308",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Oyo",
+      "en": "Oyo",
+      "slug": "oyo-cg0308"
+    },
+    "code": {
+      "id": "CG0308",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG03",
+      "level": 1,
+      "name": {
+        "local": "Cuvette",
+        "en": "Cuvette",
+        "slug": "cuvette-cg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG03",
+        "level": 1,
+        "name": {
+          "local": "Cuvette",
+          "en": "Cuvette",
+          "slug": "cuvette-cg03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.041",
+      "lon": "15.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CG0309",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tchikapika",
+      "en": "Tchikapika",
+      "slug": "tchikapika-cg0309"
+    },
+    "code": {
+      "id": "CG0309",
+      "iso": null
+    },
+    "parent": {
+      "id": "CG03",
+      "level": 1,
+      "name": {
+        "local": "Cuvette",
+        "en": "Cuvette",
+        "slug": "cuvette-cg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CG03",
+        "level": 1,
+        "name": {
+          "local": "Cuvette",
+          "en": "Cuvette",
+          "slug": "cuvette-cg03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.168",
+      "lon": "16.316"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

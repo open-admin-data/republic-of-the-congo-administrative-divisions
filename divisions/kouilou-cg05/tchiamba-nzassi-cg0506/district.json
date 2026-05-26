@@ -1,0 +1,45 @@
+{
+  "id": "CG0506",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tchiamba-Nzassi",
+    "en": "Tchiamba-Nzassi",
+    "slug": "tchiamba-nzassi-cg0506"
+  },
+  "code": {
+    "id": "CG0506",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG05",
+    "level": 1,
+    "name": {
+      "local": "Kouilou",
+      "en": "Kouilou",
+      "slug": "kouilou-cg05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG05",
+      "level": 1,
+      "name": {
+        "local": "Kouilou",
+        "en": "Kouilou",
+        "slug": "kouilou-cg05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.852",
+    "lon": "12.1"
+  },
+  "metadata": {},
+  "source": {}
+}

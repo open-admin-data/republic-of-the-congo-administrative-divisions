@@ -1,0 +1,39 @@
+# Sangha — Republic of the Congo Administrative Divisions
+
+> 6 districts
+> Code: CG12
+> Coordinates: 1.369, 15.593
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Districts
+
+### Mokeko
+
+Code: CG1201, Coordinates: 1.384, 16.14
+
+
+### Ngbala
+
+Code: CG1202, Coordinates: 2.005, 14.722
+
+
+### Ouesso
+
+Code: CG1203, Coordinates: 1.613, 16.052
+
+
+### Pikounda
+
+Code: CG1204, Coordinates: 0.569, 16.467
+
+
+### Sembe
+
+Code: CG1205, Coordinates: 1.69, 14.863
+
+
+### Souanke
+
+Code: CG1206, Coordinates: 1.715, 13.761
+
+

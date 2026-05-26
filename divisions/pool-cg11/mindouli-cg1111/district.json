@@ -1,0 +1,45 @@
+{
+  "id": "CG1111",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mindouli",
+    "en": "Mindouli",
+    "slug": "mindouli-cg1111"
+  },
+  "code": {
+    "id": "CG1111",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG11",
+    "level": 1,
+    "name": {
+      "local": "Pool",
+      "en": "Pool",
+      "slug": "pool-cg11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG11",
+      "level": 1,
+      "name": {
+        "local": "Pool",
+        "en": "Pool",
+        "slug": "pool-cg11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.226",
+    "lon": "14.361"
+  },
+  "metadata": {},
+  "source": {}
+}

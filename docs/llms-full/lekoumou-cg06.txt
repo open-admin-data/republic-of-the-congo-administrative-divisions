@@ -1,0 +1,34 @@
+# Lekoumou — Republic of the Congo Administrative Divisions
+
+> 5 districts
+> Code: CG06
+> Coordinates: -3.091, 13.636
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Districts
+
+### Bambama
+
+Code: CG0601, Coordinates: -2.501, 13.518
+
+
+### Komono
+
+Code: CG0602, Coordinates: -2.968, 13.371
+
+
+### Mayeye
+
+Code: CG0603, Coordinates: -3.604, 13.657
+
+
+### Sibiti
+
+Code: CG0604, Coordinates: -3.655, 13.113
+
+
+### Zanaga
+
+Code: CG0605, Coordinates: -3.019, 13.923
+
+

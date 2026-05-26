@@ -1,0 +1,45 @@
+{
+  "id": "CG0309",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tchikapika",
+    "en": "Tchikapika",
+    "slug": "tchikapika-cg0309"
+  },
+  "code": {
+    "id": "CG0309",
+    "iso": null
+  },
+  "parent": {
+    "id": "CG03",
+    "level": 1,
+    "name": {
+      "local": "Cuvette",
+      "en": "Cuvette",
+      "slug": "cuvette-cg03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CG03",
+      "level": 1,
+      "name": {
+        "local": "Cuvette",
+        "en": "Cuvette",
+        "slug": "cuvette-cg03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.168",
+    "lon": "16.316"
+  },
+  "metadata": {},
+  "source": {}
+}

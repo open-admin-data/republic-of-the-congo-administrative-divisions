@@ -1,0 +1,29 @@
+{
+  "id": "CG08",
+  "level": 1,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Niari",
+    "en": "Niari",
+    "slug": "niari-cg08"
+  },
+  "code": {
+    "id": "CG08",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.362",
+    "lon": "12.364"
+  },
+  "metadata": {},
+  "source": {}
+}
