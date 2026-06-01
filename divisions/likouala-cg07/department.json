@@ -25,5 +25,9 @@
     "lon": "17.361"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cg/departments/likouala-cg07/",
+    "api": "https://openadmindata.org/api/cg/"
+  }
 }

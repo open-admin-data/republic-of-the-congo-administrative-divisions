@@ -25,5 +25,9 @@
     "lon": "12.364"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cg/departments/niari-cg08/",
+    "api": "https://openadmindata.org/api/cg/"
+  }
 }

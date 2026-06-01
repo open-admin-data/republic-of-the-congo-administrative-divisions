@@ -25,5 +25,9 @@
     "lon": "15.593"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cg/departments/sangha-cg12/",
+    "api": "https://openadmindata.org/api/cg/"
+  }
 }

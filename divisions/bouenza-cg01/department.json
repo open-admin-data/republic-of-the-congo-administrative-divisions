@@ -25,5 +25,9 @@
     "lon": "13.503"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cg/departments/bouenza-cg01/",
+    "api": "https://openadmindata.org/api/cg/"
+  }
 }

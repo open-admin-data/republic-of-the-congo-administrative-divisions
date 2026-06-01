@@ -1,13 +1,14 @@
-id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.department,children_count.district,zip_codes,geo.lat,geo.lon
-CG01,1,Département,Department,Bouenza,Bouenza,bouenza-cg01,CG01,,,,,,10,,-4.131,13.503
-CG02,1,Département,Department,Brazzaville,Brazzaville,brazzaville-cg02,CG02,,,,,,1,,-4.235,15.267
-CG03,1,Département,Department,Cuvette,Cuvette,cuvette-cg03,CG03,,,,,,9,,-0.543,16.295
-CG04,1,Département,Department,Cuvette-Ouest,Cuvette-Ouest,cuvette-ouest-cg04,CG04,,,,,,6,,-0.326,14.638
-CG05,1,Département,Department,Kouilou,Kouilou,kouilou-cg05,CG05,,,,,,6,,-4.255,12.04
-CG06,1,Département,Department,Lekoumou,Lekoumou,lekoumou-cg06,CG06,,,,,,5,,-3.091,13.636
-CG07,1,Département,Department,Likouala,Likouala,likouala-cg07,CG07,,,,,,7,,1.483,17.361
-CG08,1,Département,Department,Niari,Niari,niari-cg08,CG08,,,,,,14,,-3.362,12.364
-CG09,1,Département,Department,Plateaux,Plateaux,plateaux-cg09,CG09,,,,,,11,,-2.024,15.426
-CG10,1,Département,Department,Point-Noire,Point-Noire,point-noire-cg10,CG10,,,,,,1,,-4.804,11.897
-CG11,1,Département,Department,Pool,Pool,pool-cg11,CG11,,,,,,13,,-3.819,15.12
-CG12,1,Département,Department,Sangha,Sangha,sangha-cg12,CG12,,,,,,6,,1.369,15.593
+# Data from Open Admin Data (https://openadmindata.org/cg/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/republic-of-the-congo-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.department,children_count.district,zip_codes,geo.lat,geo.lon,source_url
+CG01,1,Département,Department,Bouenza,Bouenza,bouenza-cg01,CG01,,,,,,10,,-4.131,13.503,https://openadmindata.org/cg/departments/bouenza-cg01/
+CG02,1,Département,Department,Brazzaville,Brazzaville,brazzaville-cg02,CG02,,,,,,1,,-4.235,15.267,https://openadmindata.org/cg/departments/brazzaville-cg02/
+CG03,1,Département,Department,Cuvette,Cuvette,cuvette-cg03,CG03,,,,,,9,,-0.543,16.295,https://openadmindata.org/cg/departments/cuvette-cg03/
+CG04,1,Département,Department,Cuvette-Ouest,Cuvette-Ouest,cuvette-ouest-cg04,CG04,,,,,,6,,-0.326,14.638,https://openadmindata.org/cg/departments/cuvette-ouest-cg04/
+CG05,1,Département,Department,Kouilou,Kouilou,kouilou-cg05,CG05,,,,,,6,,-4.255,12.04,https://openadmindata.org/cg/departments/kouilou-cg05/
+CG06,1,Département,Department,Lekoumou,Lekoumou,lekoumou-cg06,CG06,,,,,,5,,-3.091,13.636,https://openadmindata.org/cg/departments/lekoumou-cg06/
+CG07,1,Département,Department,Likouala,Likouala,likouala-cg07,CG07,,,,,,7,,1.483,17.361,https://openadmindata.org/cg/departments/likouala-cg07/
+CG08,1,Département,Department,Niari,Niari,niari-cg08,CG08,,,,,,14,,-3.362,12.364,https://openadmindata.org/cg/departments/niari-cg08/
+CG09,1,Département,Department,Plateaux,Plateaux,plateaux-cg09,CG09,,,,,,11,,-2.024,15.426,https://openadmindata.org/cg/departments/plateaux-cg09/
+CG10,1,Département,Department,Point-Noire,Point-Noire,point-noire-cg10,CG10,,,,,,1,,-4.804,11.897,https://openadmindata.org/cg/departments/point-noire-cg10/
+CG11,1,Département,Department,Pool,Pool,pool-cg11,CG11,,,,,,13,,-3.819,15.12,https://openadmindata.org/cg/departments/pool-cg11/
+CG12,1,Département,Department,Sangha,Sangha,sangha-cg12,CG12,,,,,,6,,1.369,15.593,https://openadmindata.org/cg/departments/sangha-cg12/

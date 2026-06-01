@@ -25,5 +25,9 @@
     "lon": "11.897"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cg/departments/point-noire-cg10/",
+    "api": "https://openadmindata.org/api/cg/"
+  }
 }

@@ -26,7 +26,11 @@
       "lon": "13.503"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cg/departments/bouenza-cg01/",
+      "api": "https://openadmindata.org/api/cg/"
+    }
   },
   {
     "id": "CG02",
@@ -55,7 +59,11 @@
       "lon": "15.267"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cg/departments/brazzaville-cg02/",
+      "api": "https://openadmindata.org/api/cg/"
+    }
   },
   {
     "id": "CG03",
@@ -84,7 +92,11 @@
       "lon": "16.295"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cg/departments/cuvette-cg03/",
+      "api": "https://openadmindata.org/api/cg/"
+    }
   },
   {
     "id": "CG04",
@@ -113,7 +125,11 @@
       "lon": "14.638"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cg/departments/cuvette-ouest-cg04/",
+      "api": "https://openadmindata.org/api/cg/"
+    }
   },
   {
     "id": "CG05",
@@ -142,7 +158,11 @@
       "lon": "12.04"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cg/departments/kouilou-cg05/",
+      "api": "https://openadmindata.org/api/cg/"
+    }
   },
   {
     "id": "CG06",
@@ -171,7 +191,11 @@
       "lon": "13.636"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cg/departments/lekoumou-cg06/",
+      "api": "https://openadmindata.org/api/cg/"
+    }
   },
   {
     "id": "CG07",
@@ -200,7 +224,11 @@
       "lon": "17.361"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cg/departments/likouala-cg07/",
+      "api": "https://openadmindata.org/api/cg/"
+    }
   },
   {
     "id": "CG08",
@@ -229,7 +257,11 @@
       "lon": "12.364"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cg/departments/niari-cg08/",
+      "api": "https://openadmindata.org/api/cg/"
+    }
   },
   {
     "id": "CG09",
@@ -258,7 +290,11 @@
       "lon": "15.426"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cg/departments/plateaux-cg09/",
+      "api": "https://openadmindata.org/api/cg/"
+    }
   },
   {
     "id": "CG10",
@@ -287,7 +323,11 @@
       "lon": "11.897"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cg/departments/point-noire-cg10/",
+      "api": "https://openadmindata.org/api/cg/"
+    }
   },
   {
     "id": "CG11",
@@ -316,7 +356,11 @@
       "lon": "15.12"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cg/departments/pool-cg11/",
+      "api": "https://openadmindata.org/api/cg/"
+    }
   },
   {
     "id": "CG12",
@@ -345,6 +389,10 @@
       "lon": "15.593"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cg/departments/sangha-cg12/",
+      "api": "https://openadmindata.org/api/cg/"
+    }
   }
 ]

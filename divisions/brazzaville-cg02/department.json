@@ -25,5 +25,9 @@
     "lon": "15.267"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cg/departments/brazzaville-cg02/",
+    "api": "https://openadmindata.org/api/cg/"
+  }
 }
