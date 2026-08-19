@@ -11,9 +11,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-06-01 |
+| Last Updated | 2026-08-19 |
 | Website | [openadmindata.org/cg](https://openadmindata.org/cg/) |
 | API | [openadmindata.org/api/cg](https://openadmindata.org/api/cg/) |
+| National Anthem | [🎵 Listen & Download Republic of the Congo National Anthem MP3](https://onlygames.me/national-anthems/cg/) |
 
 ## Browse by Department
 
