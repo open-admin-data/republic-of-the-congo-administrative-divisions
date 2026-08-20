@@ -3,7 +3,7 @@
 > 10 districts
 > Code: CG01
 > Coordinates: -4.131, 13.503
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Districts
 
