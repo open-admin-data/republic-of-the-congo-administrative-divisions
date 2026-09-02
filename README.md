@@ -11,10 +11,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-08-20 |
+| Last Updated | 2026-09-02 |
 | Website | [openadmindata.org/cg](https://openadmindata.org/cg/) |
 | API | [openadmindata.org/api/cg](https://openadmindata.org/api/cg/) |
-| Flag | [PNG](https://onlygames.me/flags-png/cg/) · [SVG](https://onlygames.me/flags-svg/cg/) · [PDF](https://onlygames.me/flags-pdf/cg/) |
+| Flag | [PNG](https://onlygames.me/flags-png/cg/) · [CDN](https://www.freeflags.org/cdn/) · [CSS](https://www.freeflags.org/css/) · [Collections](https://www.freeflags.org/collections/) |
 | National Anthem | [🎵 Listen & Download Republic of the Congo National Anthem MP3](https://onlygames.me/national-anthems/cg/) |
 
 ## Browse by Department
@@ -120,3 +120,7 @@ See [CITATION.cff](CITATION.cff) for machine-readable citation.
 - [Open Admin Data](https://openadmindata.org) — Browse, search and explore administrative divisions for every country
 - [open-admin-data](https://github.com/open-admin-data) — GitHub organization with all country repos
 - [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [FreeFlags.org](https://www.freeflags.org) — Free flag images for every country
+- [Flag CDN](https://www.freeflags.org/cdn/) — Hotlink flag images directly
+- [Flag CSS](https://www.freeflags.org/css/) — CSS flag sprites for web projects
+- [Flag Collections](https://www.freeflags.org/collections/) — Curated flag image packs

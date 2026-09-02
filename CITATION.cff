@@ -4,8 +4,8 @@ type: dataset
 authors:
   - name: "jakkrapongt"
 title: "Republic of the Congo Administrative Divisions Dataset"
-version: "2026.08"
-date-released: "2026-08-20"
+version: "2026.09"
+date-released: "2026-09-02"
 url: "https://github.com/open-admin-data/republic-of-the-congo-administrative-divisions"
 repository-code: "https://github.com/open-admin-data/republic-of-the-congo-administrative-divisions"
 license: CC-BY-4.0
